@@ -1,0 +1,118 @@
+living room
+bedroom
+kitchen
+diningroom
+study
+classroom
+toilet
+playground
+office
+house
+A-frame
+apartment building
+arena
+armory
+assembly hall
+barn
+barracks
+beach house
+boardinghouse
+boathouse
+bridge
+bungalow
+bunker
+bunkhouse
+apartment
+townhouse
+mansion
+castle
+stadium
+beach
+resort
+cabana
+cabin
+carport
+catacomb
+chalet
+chapel
+chateau
+church
+cinema
+city hall
+cclubhouse
+college
+concert hall
+condominium
+conservatory
+cottage
+courthouse
+crypt
+depot
+detached house
+dock
+dormitory
+duplex
+dwelling
+earth-sheltered house
+exposition hall
+farmhouse
+firehouse
+fortress
+gallery
+gas station
+gazebo
+granary
+greenhouse
+gymnasium
+hall
+hangar
+haunted house
+home
+headquarters
+hothouse
+houseboat
+hut
+igloo
+jail
+kiosk
+lean-to
+lighthouse
+lodge
+longhouse
+manse
+marina
+meeting hall
+minaret
+mobile home
+monument
+outhouse
+pagoda
+palace
+pavilion
+playhouse
+prisonpyramid
+residence
+rowhouse
+shack
+shed
+shelter
+shrine
+silo
+smokestack
+skyscraper
+spire
+stadium
+storehouse
+temple
+tenement
+tent
+tipi
+tomb
+tower
+tree house
+vault
+vicarage
+villa
+warehouse
+workshop
+yurt

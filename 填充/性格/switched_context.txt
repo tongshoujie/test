@@ -1,0 +1,37 @@
+Both [person4] and [person2] are [adj].
+[person1] is thought to be a/an [adj] man.
+[person4] gives people a [adj] feeling.
+[person2] is [adj].
+They all know that [person2] is a/an [adj] person.
+[person1]'s personality is very [adj].
+They all know that [person1] is a/an [adj] person.
+[person2] has a [adj] temper.
+They all know that [person4] is a/an [adj] person.
+[person1] is quite [adj] about most things.
+Both [person3] and [person2] are [adj].
+[person1] has a [adj] temper.
+[person4]'s personality is very [adj].
+[person2] is quite [adj] about most things.
+[person4] is quite [adj] about most things.
+They all know that [person3] is a/an [adj] person.
+[person2] gives people a [adj] feeling.
+[person1] is [adj].
+[person1] is considerd to be a/an [adj] person.
+[person3] is [adj].
+[person1] gives people a [adj] feeling.
+[person4] is considerd to be a/an [adj] person.
+[person3] is thought to be a/an [adj] man.
+[person3] is quite [adj] about most things.
+[person4] is [adj].
+Both [person1] and [person4] are [adj].
+[person3] has a [adj] temper.
+[person3] is considerd to be a/an [adj] person.
+[person2]'s personality is very [adj].
+Both [person1] and [person3] are [adj].
+[person3]'s personality is very [adj].
+Both [person1] and [person2] are [adj].
+[person3] gives people a [adj] feeling.
+[person4] has a [adj] temper.
+[person2] is thought to be a/an [adj] man.
+[person2] is considerd to be a/an [adj] person.
+[person4] is thought to be a/an [adj] man.

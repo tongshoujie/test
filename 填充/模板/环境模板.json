@@ -1,0 +1,983 @@
+[
+    {
+        "type": "surroundings",
+        "It is [weather1].": 0,
+        "The atmosphere is [emotion1].": 1,
+        "There is a/an [emotion1] in the air.": 2,
+        "This is telling a [emotion1] story.": 3,
+        "The scene is [emotion1].": 4
+    },
+    {
+        "context_id": 0,
+        "context": "There is a/an vibrant in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 1,
+        "context": "The atmosphere is unspoiled.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 2,
+        "context": "There is a/an magical in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 3,
+        "context": "The atmosphere is enchanting.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 4,
+        "context": "It is storm.",
+        "type": "surroundings",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 5,
+        "context": "It is hail.",
+        "type": "surroundings",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 6,
+        "context": "The atmosphere is alive.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 7,
+        "context": "It is cloudy.",
+        "type": "surroundings",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 8,
+        "context": "This is telling a bleak story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 9,
+        "context": "The atmosphere is polluted.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 10,
+        "context": "The atmosphere is calm.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 11,
+        "context": "The atmosphere is fresh.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 12,
+        "context": "The atmosphere is picturesque.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 13,
+        "context": "The scene is homey.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 14,
+        "context": "The scene is vibrant.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 15,
+        "context": "The scene is boring.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 16,
+        "context": "The atmosphere is homey.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 17,
+        "context": "The atmosphere is inspiring.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 18,
+        "context": "The atmosphere is creepy.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 19,
+        "context": "The atmosphere is desolate.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 20,
+        "context": "This is telling a deserted story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 21,
+        "context": "The atmosphere is nightmarish.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 22,
+        "context": "There is a/an bleak in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 23,
+        "context": "There is a/an bustling in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 24,
+        "context": "The atmosphere is charming.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 25,
+        "context": "The scene is majestic.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 26,
+        "context": "This is telling a majestic story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 27,
+        "context": "It is ice.",
+        "type": "surroundings",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 28,
+        "context": "There is a/an alive in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 29,
+        "context": "The atmosphere is stormy.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 30,
+        "context": "The scene is enchanting.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 31,
+        "context": "This is telling a boiling story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 32,
+        "context": "The atmosphere is boring.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 33,
+        "context": "This is telling a charming story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 34,
+        "context": "It is sleet.",
+        "type": "surroundings",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 35,
+        "context": "The atmosphere is quiet.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 36,
+        "context": "The scene is calm.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 37,
+        "context": "The atmosphere is fascinating.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 38,
+        "context": "The atmosphere is peaceful.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 39,
+        "context": "The atmosphere is crowded.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 40,
+        "context": "The scene is quiet.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 41,
+        "context": "This is telling a stormy story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 42,
+        "context": "There is a/an fresh in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 43,
+        "context": "This is telling a quiet story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 44,
+        "context": "There is a/an mystical in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 45,
+        "context": "The atmosphere is majestic.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 46,
+        "context": "There is a/an polluted in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 47,
+        "context": "The scene is deserted.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 48,
+        "context": "The atmosphere is horrifying.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 49,
+        "context": "This is telling a attractive story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 50,
+        "context": "There is a/an lively in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 51,
+        "context": "The scene is mystical.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 52,
+        "context": "The atmosphere is bleak.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 53,
+        "context": "The scene is inspiring.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 54,
+        "context": "The scene is picturesque.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 55,
+        "context": "The scene is bleak.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 56,
+        "context": "The atmosphere is vibrant.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 57,
+        "context": "This is telling a alive story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 58,
+        "context": "There is a/an inspiring in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 59,
+        "context": "The scene is boiling.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 60,
+        "context": "There is a/an dull in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 61,
+        "context": "This is telling a picturesque story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 62,
+        "context": "There is a/an charming in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 63,
+        "context": "This is telling a fresh story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 64,
+        "context": "The scene is crowded.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 65,
+        "context": "This is telling a horrifying story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 66,
+        "context": "It is windy.",
+        "type": "surroundings",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 67,
+        "context": "The scene is lively.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 68,
+        "context": "There is a/an creepy in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 69,
+        "context": "This is telling a magical story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 70,
+        "context": "There is a/an horrifying in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 71,
+        "context": "The scene is charming.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 72,
+        "context": "This is telling a enchanting story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 73,
+        "context": "There is a/an homey in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 74,
+        "context": "The atmosphere is magical.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 75,
+        "context": "This is telling a lively story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 76,
+        "context": "The scene is fascinating.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 77,
+        "context": "The scene is unspoiled.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 78,
+        "context": "This is telling a inspiring story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 79,
+        "context": "This is telling a calm story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 80,
+        "context": "The scene is attractive.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 81,
+        "context": "There is a/an quiet in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 82,
+        "context": "It is tornado.",
+        "type": "surroundings",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 83,
+        "context": "There is a/an peaceful in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 84,
+        "context": "It is sunny.",
+        "type": "surroundings",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 85,
+        "context": "This is telling a homey story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 86,
+        "context": "The scene is dull.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 87,
+        "context": "It is foggy.",
+        "type": "surroundings",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 88,
+        "context": "The scene is fresh.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 89,
+        "context": "This is telling a creepy story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 90,
+        "context": "The scene is magical.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 91,
+        "context": "There is a/an fascinating in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 92,
+        "context": "The scene is nightmarish.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 93,
+        "context": "This is telling a desolate story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 94,
+        "context": "There is a/an calm in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 95,
+        "context": "The atmosphere is attractive.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 96,
+        "context": "There is a/an enchanting in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 97,
+        "context": "There is a/an deserted in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 98,
+        "context": "There is a/an nightmarish in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 99,
+        "context": "It is snowy.",
+        "type": "surroundings",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 100,
+        "context": "There is a/an boiling in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 101,
+        "context": "This is telling a boring story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 102,
+        "context": "This is telling a vibrant story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 103,
+        "context": "The atmosphere is lively.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 104,
+        "context": "There is a/an desolate in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 105,
+        "context": "This is telling a peaceful story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 106,
+        "context": "The scene is desolate.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 107,
+        "context": "This is telling a dull story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 108,
+        "context": "There is a/an boring in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 109,
+        "context": "The scene is alive.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 110,
+        "context": "It is rainy.",
+        "type": "surroundings",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 111,
+        "context": "It is dewy.",
+        "type": "surroundings",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 112,
+        "context": "The atmosphere is dull.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 113,
+        "context": "The scene is peaceful.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 114,
+        "context": "It is drought.",
+        "type": "surroundings",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 115,
+        "context": "This is telling a crowded story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 116,
+        "context": "There is a/an unspoiled in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 117,
+        "context": "The scene is stormy.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 118,
+        "context": "The atmosphere is mystical.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 119,
+        "context": "This is telling a polluted story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 120,
+        "context": "There is a/an majestic in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 121,
+        "context": "This is telling a bustling story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 122,
+        "context": "This is telling a unspoiled story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 123,
+        "context": "This is telling a fascinating story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 124,
+        "context": "This is telling a nightmarish story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 125,
+        "context": "There is a/an crowded in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 126,
+        "context": "The scene is bustling.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 127,
+        "context": "The atmosphere is bustling.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 128,
+        "context": "The atmosphere is deserted.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 129,
+        "context": "The atmosphere is boiling.",
+        "type": "surroundings",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 130,
+        "context": "There is a/an stormy in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 131,
+        "context": "The scene is polluted.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 132,
+        "context": "The scene is horrifying.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 133,
+        "context": "There is a/an attractive in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    },
+    {
+        "context_id": 134,
+        "context": "It is showery.",
+        "type": "surroundings",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 135,
+        "context": "The scene is creepy.",
+        "type": "surroundings",
+        "template_id": 4,
+        "max_person": 0
+    },
+    {
+        "context_id": 136,
+        "context": "This is telling a mystical story.",
+        "type": "surroundings",
+        "template_id": 3,
+        "max_person": 0
+    },
+    {
+        "context_id": 137,
+        "context": "It is overcast.",
+        "type": "surroundings",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 138,
+        "context": "There is a/an picturesque in the air.",
+        "type": "surroundings",
+        "template_id": 2,
+        "max_person": 0
+    }
+]

@@ -1,0 +1,15 @@
+[person1] is [adj].
+[person1] feels [adj].
+To [person1], nothing could be more [adj].
+Having a conversation with [person2], [person1] is very [adj].
+[person1] has a [adj] time with [person2].
+Because of [person2]'s behavior, [person1] feels very [adj].
+[person1] is so [adj] to talk with [person2].
+people have [adj] looks on their faces.
+[person1] looks [adj] today.
+Recently, [person1] is becoming more and more [adj].
+This scene makes them very [adj].
+[person1] makes [person2] [adj].
+[person1] is feeling a bit [adj].
+[person1] is in a [adj] mood today.
+[person1] is filled with [n].

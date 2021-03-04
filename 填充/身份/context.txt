@@ -1,0 +1,6 @@
+[person1] is a [job1].
+[person1]'s job is a [job1].
+The occupation of [person1] is a [job1].
+[person1] works in [place1].
+[person1] works for a/an [place1].
+The line of work that the [person1] is in is [place1]
