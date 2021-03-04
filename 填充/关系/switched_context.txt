@@ -1,0 +1,22 @@
+[person1] is [person3]'s [n].
+[person2] is talking with his/her [n].
+The relationship between [person1] and [person2] is very [adj].
+The relationship between [person3] and [person2] is very [adj].
+[person4] is talking with his/her [n].
+The relationship between [person1] and [person4] is very [adj].
+[person4] is [person2]'s [n].
+[person1] and [person3] are [N].
+[person1] is [person4]'s [n].
+The relationship between [person1] and [person3] is very [adj].
+[person3] is [person2]'s [n].
+Because of what happened before, they have a [adj] relationship now.
+The relationship between [person4] and [person2] is very [adj].
+[person1] and [person2] are [N].
+The two speakers are [N].
+[person1] and [person4] are [N].
+[person3] and [person2] are [N].
+[person1] is talking with his/her [n].
+They are [N].
+[person3] is talking with his/her [n].
+[person1] is [person2]'s [n].
+[person4] and [person2] are [N].

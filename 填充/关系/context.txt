@@ -1,0 +1,7 @@
+They are [N].
+[person1] and [person2] are [N].
+The two speakers are [N].
+[person1] is [person2]'s [n].
+[person1] is talking with his/her [n].
+Because of what happened before, they have a [adj] relationship now.
+The relationship between [person1] and [person2] is very [adj].

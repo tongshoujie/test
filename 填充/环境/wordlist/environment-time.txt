@@ -1,0 +1,26 @@
+morning
+afternoon
+evening
+night
+midnight
+breakfast time
+lunchtime
+dinner time
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+weekend
+April Fool's Day
+Carnival
+Chinese New Year
+Christmas
+Easter
+Guy Fawkes Night
+Hajj
+New Year's Day
+Ramadan
+Valentine's Day

@@ -1,0 +1,3396 @@
+[
+    {
+        "type": "antecedent",
+        "There was a/an [incident1].": 0,
+        "[incident1] happened.": 1,
+        "[person1] and [person2] had a fight.": 2,
+        "[person1] had no idea who [person2] was supposed to be.": 3,
+        "[person1] and [person2] were very familiar with each other.": 4,
+        "[person1] broke things on accident.": 5,
+        "Something unfortunate had just happened.": 6,
+        "Something fortunate had just happened.": 7,
+        "[person1] just lost [relative1].": 8,
+        "[person1] just got a new [relative1].": 9
+    },
+    {
+        "context_id": 0,
+        "context": "[person2] just got a new teammate.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 1,
+        "context": "[person1] had no idea who [person3] was supposed to be.",
+        "type": "antecedent",
+        "template_id": 3,
+        "max_person": 3
+    },
+    {
+        "context_id": 2,
+        "context": "There was a/an gale.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 3,
+        "context": "[person3] just got a new mentor.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 4,
+        "context": "domestic accident happened.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 5,
+        "context": "[person4] just lost sister.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 6,
+        "context": "[person1] just lost aunt.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 7,
+        "context": "[person3] just lost companion.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 8,
+        "context": "[person2] just got a new spouse.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 9,
+        "context": "tornado happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 10,
+        "context": "[person3] just got a new assistant.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 11,
+        "context": "sandstorm happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 12,
+        "context": "[person2] just got a new fellow-apprentice.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 13,
+        "context": "[person2] just got a new uncle.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 14,
+        "context": "[person2] just lost grandfather.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 15,
+        "context": "[person3] just lost son.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 16,
+        "context": "cyclone happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 17,
+        "context": "[person1] just got a new grandchild.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 18,
+        "context": "There was a/an water transport accident.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 19,
+        "context": "[person3] just lost sibling.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 20,
+        "context": "[person4] just lost partner.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 21,
+        "context": "[person1] just got a new confidante.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 22,
+        "context": "[person1] just got a new chum.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 23,
+        "context": "[person4] just got a new competitor.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 24,
+        "context": "[person3] just got a new enemy.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 25,
+        "context": "[person4] and [person2] had a fight.",
+        "type": "antecedent",
+        "template_id": 2,
+        "max_person": 4
+    },
+    {
+        "context_id": 26,
+        "context": "[person1] just got a new assistant.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 27,
+        "context": "[person2] just got a new assistant.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 28,
+        "context": "[person1] and [person2] had a fight.",
+        "type": "antecedent",
+        "template_id": 2,
+        "max_person": 2
+    },
+    {
+        "context_id": 29,
+        "context": "[person3] just got a new partner.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 30,
+        "context": "[person4] just got a new uncle.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 31,
+        "context": "[person4] just lost parent.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 32,
+        "context": "[person3] broke things on accident.",
+        "type": "antecedent",
+        "template_id": 5,
+        "max_person": 3
+    },
+    {
+        "context_id": 33,
+        "context": "There was a/an air transport accident.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 34,
+        "context": "[person3] just got a new comrade-in-arms.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 35,
+        "context": "[person3] just lost uncle.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 36,
+        "context": "[person4] just got a new boss.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 37,
+        "context": "[person1] just lost mentor.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 38,
+        "context": "[person4] just lost roommate.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 39,
+        "context": "air transport accident happened.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 40,
+        "context": "[person1] just got a new sister.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 41,
+        "context": "[person2] just lost student.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 42,
+        "context": "[person1] just got a new partner.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 43,
+        "context": "[person3] just lost husband.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 44,
+        "context": "[person4] just got a new student.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 45,
+        "context": "[person1] just lost student.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 46,
+        "context": "There was a/an hail.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 47,
+        "context": "water transport accident happened.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 48,
+        "context": "[person4] just lost boyfriend.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 49,
+        "context": "[person3] just lost cousin.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 50,
+        "context": "There was a/an volcanic eruption.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 51,
+        "context": "[person4] just lost grandparent.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 52,
+        "context": "[person2] just lost competitor.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 53,
+        "context": "industrial accident happened.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 54,
+        "context": "[person3] just got a new rival.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 55,
+        "context": "[person2] just got a new classmate.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 56,
+        "context": "[person3] just lost niece.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 57,
+        "context": "[person4] just got a new enemy.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 58,
+        "context": "[person2] just got a new enemy.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 59,
+        "context": "[person4] just got a new grandmother.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 60,
+        "context": "[person4] just got a new partner.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 61,
+        "context": "[person3] just got a new student.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 62,
+        "context": "[person2] just lost enemy.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 63,
+        "context": "[person3] just got a new mother.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 64,
+        "context": "[person1] just lost schoolmate.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 65,
+        "context": "[person2] just lost buddy.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 66,
+        "context": "[person1] just got a new aunt.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 67,
+        "context": "[person1] just lost enemy.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 68,
+        "context": "[person4] just lost brother.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 69,
+        "context": "[person2] just lost comrade-in-arms.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 70,
+        "context": "[person4] broke things on accident.",
+        "type": "antecedent",
+        "template_id": 5,
+        "max_person": 4
+    },
+    {
+        "context_id": 71,
+        "context": "[person4] just lost father.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 72,
+        "context": "There was a/an road traffic accident.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 73,
+        "context": "[person3] just lost comrade-in-arms.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 74,
+        "context": "There was a/an dust storm.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 75,
+        "context": "[person3] just lost enemy.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 76,
+        "context": "[person2] just lost colleague.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 77,
+        "context": "[person3] and [person2] had a fight.",
+        "type": "antecedent",
+        "template_id": 2,
+        "max_person": 3
+    },
+    {
+        "context_id": 78,
+        "context": "[person3] just lost grandson.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 79,
+        "context": "[person1] just got a new teammate.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 80,
+        "context": "[person1] just lost buddy.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 81,
+        "context": "[person1] just lost intimate.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 82,
+        "context": "[person4] just lost cousin.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 83,
+        "context": "[person4] just got a new companion.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 84,
+        "context": "[person3] just lost sworn enemy.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 3
+    },
+    {
+        "context_id": 85,
+        "context": "[person2] just lost husband.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 86,
+        "context": "[person2] just lost teammate.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 87,
+        "context": "hail happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 88,
+        "context": "medical negligence accidents happened.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 89,
+        "context": "[person2] just got a new partner.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 90,
+        "context": "hurricane happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 91,
+        "context": "[person2] just lost grandson.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 92,
+        "context": "[person2] just lost father.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 93,
+        "context": "[person2] just lost grandchild.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 94,
+        "context": "[person4] just got a new chum.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 95,
+        "context": "hailstorm happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 96,
+        "context": "[person3] just got a new grandchild.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 97,
+        "context": "[person3] just got a new grandparent.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 98,
+        "context": "[person4] just got a new granddaughter.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 99,
+        "context": "[person3] just lost rival.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 100,
+        "context": "[person4] just got a new sibling.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 101,
+        "context": "[person1] just lost daughter.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 102,
+        "context": "[person4] just lost sworn enemy.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 4
+    },
+    {
+        "context_id": 103,
+        "context": "[person1] just got a new girlfriend.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 104,
+        "context": "[person1] just got a new student.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 105,
+        "context": "[person2] just lost schoolmate.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 106,
+        "context": "There was a/an rainstorm.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 107,
+        "context": "[person1] just got a new daughter.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 108,
+        "context": "[person1] just got a new granddaughter.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 109,
+        "context": "[person1] just got a new colleague.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 110,
+        "context": "[person1] and [person4] were very familiar with each other.",
+        "type": "antecedent",
+        "template_id": 4,
+        "max_person": 4
+    },
+    {
+        "context_id": 111,
+        "context": "[person3] just lost fellow-apprentice.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 112,
+        "context": "[person1] just got a new grandfather.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 113,
+        "context": "tsunami happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 114,
+        "context": "[person2] just lost penpal.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 115,
+        "context": "[person2] just got a new schoolmate.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 116,
+        "context": "earthquake happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 117,
+        "context": "[person1] just lost grandson.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 118,
+        "context": "[person3] just got a new grandmother.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 119,
+        "context": "[person1] just got a new sworn enemy.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 1
+    },
+    {
+        "context_id": 120,
+        "context": "casualty happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 121,
+        "context": "[person4] just got a new schoolmate.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 122,
+        "context": "There was a/an cataclysm.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 123,
+        "context": "[person4] just lost uncle.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 124,
+        "context": "[person1] just lost spouse.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 125,
+        "context": "drought happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 126,
+        "context": "There was a/an avalanche.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 127,
+        "context": "[person2] just lost sworn enemy.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 2
+    },
+    {
+        "context_id": 128,
+        "context": "[person2] just got a new parent.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 129,
+        "context": "[person1] just got a new competitor.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 130,
+        "context": "[person1] just lost roommate.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 131,
+        "context": "There was a/an flood.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 132,
+        "context": "[person3] just lost girlfriend.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 133,
+        "context": "avalanche happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 134,
+        "context": "[person2] just got a new cousin.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 135,
+        "context": "[person1] just got a new brother.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 136,
+        "context": "[person4] just got a new husband.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 137,
+        "context": "[person4] just got a new teammate.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 138,
+        "context": "[person2] just lost roommate.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 139,
+        "context": "[person1] just got a new uncle.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 140,
+        "context": "[person3] just lost grandmother.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 141,
+        "context": "[person1] just got a new mentor.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 142,
+        "context": "[person4] just got a new roommate.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 143,
+        "context": "[person3] just lost mentor.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 144,
+        "context": "There was a/an domestic accident.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 145,
+        "context": "[person2] just got a new mother.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 146,
+        "context": "[person2] just lost uncle.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 147,
+        "context": "[person1] just got a new grandmother.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 148,
+        "context": "There was a/an blizzard.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 149,
+        "context": "[person2] just got a new niece.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 150,
+        "context": "rainstorm happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 151,
+        "context": "[person2] just got a new father.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 152,
+        "context": "There was a/an tsunami.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 153,
+        "context": "[person4] just got a new grandson.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 154,
+        "context": "[person2] just got a new roommate.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 155,
+        "context": "[person3] just lost wife.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 156,
+        "context": "[person2] just got a new sister.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 157,
+        "context": "[person3] just got a new teammate.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 158,
+        "context": "[person1] just got a new penpal.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 159,
+        "context": "[person1] just lost classmate.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 160,
+        "context": "There was a/an fire.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 161,
+        "context": "[person4] just got a new aunt.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 162,
+        "context": "[person3] just got a new boss.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 163,
+        "context": "[person4] just got a new comrade-in-arms.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 164,
+        "context": "[person1] just lost confidante.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 165,
+        "context": "[person4] just lost grandfather.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 166,
+        "context": "[person3] just got a new fellow-apprentice.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 167,
+        "context": "thunderstorm happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 168,
+        "context": "[person2] just lost teacher.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 169,
+        "context": "[person4] just lost companion.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 170,
+        "context": "[person2] just got a new buddy.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 171,
+        "context": "There was a/an hailstorm.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 172,
+        "context": "[person3] just lost assistant.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 173,
+        "context": "Something unfortunate had just happened.",
+        "type": "antecedent",
+        "template_id": 6,
+        "max_person": 0
+    },
+    {
+        "context_id": 174,
+        "context": "[person4] just lost fellow-apprentice.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 175,
+        "context": "[person3] just got a new nephew.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 176,
+        "context": "There was a/an car accident.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 177,
+        "context": "[person2] just got a new sibling.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 178,
+        "context": "flood happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 179,
+        "context": "[person3] just got a new parent.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 180,
+        "context": "[person1] just lost mother.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 181,
+        "context": "[person1] just lost grandmother.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 182,
+        "context": "There was a/an earthquake.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 183,
+        "context": "[person2] just lost partner.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 184,
+        "context": "[person3] had no idea who [person2] was supposed to be.",
+        "type": "antecedent",
+        "template_id": 3,
+        "max_person": 3
+    },
+    {
+        "context_id": 185,
+        "context": "[person1] just got a new classmate.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 186,
+        "context": "[person3] just got a new father.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 187,
+        "context": "[person4] just got a new daughter.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 188,
+        "context": "[person1] just lost teacher.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 189,
+        "context": "[person2] just got a new nephew.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 190,
+        "context": "[person3] just got a new aunt.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 191,
+        "context": "[person2] just got a new boss.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 192,
+        "context": "[person3] just lost buddy.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 193,
+        "context": "[person4] just lost son.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 194,
+        "context": "snowstorm happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 195,
+        "context": "[person3] just lost aunt.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 196,
+        "context": "[person3] just lost chum.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 197,
+        "context": "[person2] just lost sibling.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 198,
+        "context": "[person3] just got a new grandfather.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 199,
+        "context": "[person3] just got a new son.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 200,
+        "context": "[person4] just got a new classmate.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 201,
+        "context": "[person3] just got a new uncle.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 202,
+        "context": "There was a/an windstorm.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 203,
+        "context": "[person2] just got a new brother.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 204,
+        "context": "[person4] just lost niece.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 205,
+        "context": "[person1] just lost colleague.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 206,
+        "context": "[person2] just got a new granddaughter.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 207,
+        "context": "[person2] just lost son.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 208,
+        "context": "[person1] just got a new nephew.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 209,
+        "context": "[person1] just lost sibling.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 210,
+        "context": "There was a/an hurricane.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 211,
+        "context": "[person3] just got a new sworn enemy.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 3
+    },
+    {
+        "context_id": 212,
+        "context": "[person3] just lost spouse.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 213,
+        "context": "[person4] just got a new grandfather.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 214,
+        "context": "There was a/an casualty.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 215,
+        "context": "[person2] just lost sister.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 216,
+        "context": "[person2] just lost mother.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 217,
+        "context": "[person1] just got a new teacher.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 218,
+        "context": "[person1] and [person4] had a fight.",
+        "type": "antecedent",
+        "template_id": 2,
+        "max_person": 4
+    },
+    {
+        "context_id": 219,
+        "context": "[person4] just got a new boyfriend.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 220,
+        "context": "[person3] just got a new husband.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 221,
+        "context": "[person1] just lost rival.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 222,
+        "context": "[person3] just lost boyfriend.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 223,
+        "context": "[person4] just lost mother.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 224,
+        "context": "[person3] just got a new granddaughter.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 225,
+        "context": "[person4] just lost comrade-in-arms.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 226,
+        "context": "[person3] just lost daughter.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 227,
+        "context": "[person2] just got a new friend.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 228,
+        "context": "[person2] just lost grandparent.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 229,
+        "context": "non-occupational accident happened.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 230,
+        "context": "[person3] just lost teammate.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 231,
+        "context": "[person4] just lost grandchild.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 232,
+        "context": "[person2] just got a new competitor.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 233,
+        "context": "car accident happened.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 234,
+        "context": "[person3] just got a new sibling.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 235,
+        "context": "There was a/an storm.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 236,
+        "context": "[person3] just lost competitor.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 237,
+        "context": "[person1] just got a new mother.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 238,
+        "context": "[person2] just got a new colleague.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 239,
+        "context": "[person2] just got a new girlfriend.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 240,
+        "context": "[person3] just got a new niece.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 241,
+        "context": "[person1] just got a new father.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 242,
+        "context": "[person4] just lost intimate.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 243,
+        "context": "[person1] just got a new companion.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 244,
+        "context": "There was a/an industrial accident.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 245,
+        "context": "[person4] just lost wife.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 246,
+        "context": "[person1] just lost brother.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 247,
+        "context": "[person2] just lost spouse.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 248,
+        "context": "[person4] just lost assistant.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 249,
+        "context": "[person1] just lost teammate.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 250,
+        "context": "There was a/an tornado.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 251,
+        "context": "[person4] just got a new wife.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 252,
+        "context": "[person2] just lost cousin.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 253,
+        "context": "[person1] just lost granddaughter.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 254,
+        "context": "[person1] just lost father.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 255,
+        "context": "[person1] just lost sworn enemy.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 1
+    },
+    {
+        "context_id": 256,
+        "context": "[person1] just lost partner.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 257,
+        "context": "[person2] just got a new intimate.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 258,
+        "context": "[person1] just got a new spouse.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 259,
+        "context": "[person3] just got a new competitor.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 260,
+        "context": "volcanic eruption happened.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 261,
+        "context": "twister happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 262,
+        "context": "There was a/an fall.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 263,
+        "context": "[person1] just lost son.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 264,
+        "context": "[person2] just lost companion.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 265,
+        "context": "[person1] just lost comrade-in-arms.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 266,
+        "context": "[person3] just lost grandparent.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 267,
+        "context": "[person1] just lost nephew.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 268,
+        "context": "[person2] just got a new grandmother.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 269,
+        "context": "[person3] just lost student.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 270,
+        "context": "[person3] just got a new brother.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 271,
+        "context": "[person3] just got a new friend.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 272,
+        "context": "[person4] just lost competitor.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 273,
+        "context": "[person3] just got a new teacher.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 274,
+        "context": "[person3] just got a new colleague.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 275,
+        "context": "[person1] just lost parent.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 276,
+        "context": "fall happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 277,
+        "context": "[person4] just lost rival.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 278,
+        "context": "[person4] just got a new intimate.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 279,
+        "context": "[person3] just lost friend.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 280,
+        "context": "[person3] just got a new boyfriend.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 281,
+        "context": "[person1] just lost grandfather.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 282,
+        "context": "gale happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 283,
+        "context": "[person4] just got a new cousin.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 284,
+        "context": "[person3] just lost roommate.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 285,
+        "context": "[person4] just lost chum.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 286,
+        "context": "[person3] just lost colleague.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 287,
+        "context": "[person2] just got a new grandson.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 288,
+        "context": "[person4] just lost spouse.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 289,
+        "context": "[person2] just lost confidante.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 290,
+        "context": "[person4] just got a new mentor.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 291,
+        "context": "[person3] just lost sister.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 292,
+        "context": "[person1] just lost cousin.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 293,
+        "context": "[person1] just got a new son.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 294,
+        "context": "[person1] just lost girlfriend.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 295,
+        "context": "[person4] just got a new colleague.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 296,
+        "context": "[person2] just got a new son.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 297,
+        "context": "[person2] just lost assistant.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 298,
+        "context": "drowning incident happened.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 299,
+        "context": "[person1] just got a new niece.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 300,
+        "context": "[person2] just lost daughter.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 301,
+        "context": "[person3] just lost nephew.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 302,
+        "context": "[person3] just lost parent.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 303,
+        "context": "[person4] just lost grandson.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 304,
+        "context": "[person2] just lost boss.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 305,
+        "context": "[person1] just got a new boyfriend.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 306,
+        "context": "[person3] just lost father.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 307,
+        "context": "[person3] just got a new schoolmate.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 308,
+        "context": "[person4] just got a new sister.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 309,
+        "context": "[person3] just lost partner.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 310,
+        "context": "[person3] just lost teacher.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 311,
+        "context": "[person4] just lost colleague.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 312,
+        "context": "[person4] just got a new brother.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 313,
+        "context": "There was a/an sandstorm.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 314,
+        "context": "[person2] just got a new grandparent.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 315,
+        "context": "[person3] just lost schoolmate.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 316,
+        "context": "[person1] had no idea who [person2] was supposed to be.",
+        "type": "antecedent",
+        "template_id": 3,
+        "max_person": 2
+    },
+    {
+        "context_id": 317,
+        "context": "[person1] and [person2] were very familiar with each other.",
+        "type": "antecedent",
+        "template_id": 4,
+        "max_person": 2
+    },
+    {
+        "context_id": 318,
+        "context": "[person1] just lost sister.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 319,
+        "context": "[person3] just lost penpal.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 320,
+        "context": "[person4] just lost schoolmate.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 321,
+        "context": "There was a/an thunderstorm.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 322,
+        "context": "[person2] just got a new chum.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 323,
+        "context": "[person1] just lost fellow-apprentice.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 324,
+        "context": "[person4] just lost penpal.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 325,
+        "context": "[person1] just got a new fellow-apprentice.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 326,
+        "context": "[person3] just lost brother.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 327,
+        "context": "There was a/an drowning incident.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 328,
+        "context": "[person2] just lost girlfriend.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 329,
+        "context": "[person3] just got a new girlfriend.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 330,
+        "context": "[person4] just got a new nephew.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 331,
+        "context": "[person2] just got a new teacher.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 332,
+        "context": "[person4] just got a new parent.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 333,
+        "context": "[person4] just got a new spouse.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 334,
+        "context": "[person1] just lost boyfriend.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 335,
+        "context": "[person3] just got a new sister.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 336,
+        "context": "[person3] just got a new classmate.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 337,
+        "context": "road traffic accident happened.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 338,
+        "context": "[person4] just lost sibling.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 339,
+        "context": "[person4] just lost aunt.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 340,
+        "context": "[person1] just got a new enemy.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 341,
+        "context": "[person4] just lost enemy.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 342,
+        "context": "[person2] just lost aunt.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 343,
+        "context": "[person4] just lost buddy.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 344,
+        "context": "[person4] just got a new grandparent.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 345,
+        "context": "There was a/an medical negligence accidents.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 346,
+        "context": "[person1] just lost boss.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 347,
+        "context": "[person4] just lost friend.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 348,
+        "context": "[person2] just lost grandmother.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 349,
+        "context": "[person1] just got a new roommate.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 350,
+        "context": "[person3] just got a new buddy.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 351,
+        "context": "[person2] just lost nephew.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 352,
+        "context": "[person1] just got a new intimate.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 353,
+        "context": "[person1] just got a new comrade-in-arms.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 354,
+        "context": "[person4] just lost student.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 355,
+        "context": "[person1] just lost grandparent.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 356,
+        "context": "[person2] just lost friend.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 357,
+        "context": "[person3] just got a new daughter.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 358,
+        "context": "[person4] just got a new rival.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 359,
+        "context": "[person1] just lost penpal.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 360,
+        "context": "disaster happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 361,
+        "context": "[person4] just lost husband.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 362,
+        "context": "[person4] just got a new friend.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 363,
+        "context": "There was a/an forest fire.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 364,
+        "context": "[person1] just lost niece.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 365,
+        "context": "[person4] just got a new fellow-apprentice.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 366,
+        "context": "[person1] just got a new husband.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 367,
+        "context": "cataclysm happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 368,
+        "context": "violent storm happened.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 369,
+        "context": "[person1] just lost uncle.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 370,
+        "context": "[person3] just got a new companion.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 371,
+        "context": "[person1] broke things on accident.",
+        "type": "antecedent",
+        "template_id": 5,
+        "max_person": 1
+    },
+    {
+        "context_id": 372,
+        "context": "[person1] and [person3] had a fight.",
+        "type": "antecedent",
+        "template_id": 2,
+        "max_person": 3
+    },
+    {
+        "context_id": 373,
+        "context": "[person3] just got a new intimate.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 374,
+        "context": "[person4] just got a new confidante.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 375,
+        "context": "[person2] broke things on accident.",
+        "type": "antecedent",
+        "template_id": 5,
+        "max_person": 2
+    },
+    {
+        "context_id": 376,
+        "context": "motorcycle accidents happened.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 377,
+        "context": "[person3] just got a new penpal.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 378,
+        "context": "windstorm happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 379,
+        "context": "[person1] just got a new rival.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 380,
+        "context": "fire happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 381,
+        "context": "[person4] just got a new sworn enemy.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 4
+    },
+    {
+        "context_id": 382,
+        "context": "[person1] and [person3] were very familiar with each other.",
+        "type": "antecedent",
+        "template_id": 4,
+        "max_person": 3
+    },
+    {
+        "context_id": 383,
+        "context": "[person4] just lost classmate.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 384,
+        "context": "[person4] just lost nephew.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 385,
+        "context": "[person2] just got a new student.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 386,
+        "context": "[person1] just lost chum.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 387,
+        "context": "[person4] just lost daughter.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 388,
+        "context": "[person2] just lost intimate.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 389,
+        "context": "[person3] just lost boss.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 390,
+        "context": "[person4] just got a new son.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 391,
+        "context": "[person1] just lost friend.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 392,
+        "context": "[person3] just lost grandchild.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 393,
+        "context": "[person3] and [person2] were very familiar with each other.",
+        "type": "antecedent",
+        "template_id": 4,
+        "max_person": 3
+    },
+    {
+        "context_id": 394,
+        "context": "[person2] just got a new mentor.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 395,
+        "context": "[person4] just got a new niece.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 396,
+        "context": "[person3] just got a new chum.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 397,
+        "context": "[person4] and [person2] were very familiar with each other.",
+        "type": "antecedent",
+        "template_id": 4,
+        "max_person": 4
+    },
+    {
+        "context_id": 398,
+        "context": "[person2] just got a new boyfriend.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 399,
+        "context": "[person2] just lost granddaughter.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 400,
+        "context": "[person2] just lost rival.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 401,
+        "context": "[person4] just lost boss.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 402,
+        "context": "[person3] just got a new cousin.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 403,
+        "context": "[person1] just got a new grandson.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 404,
+        "context": "There was a/an occupational accident.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 405,
+        "context": "[person1] just got a new friend.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 406,
+        "context": "[person3] just lost confidante.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 407,
+        "context": "[person1] just lost assistant.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 408,
+        "context": "[person2] just got a new companion.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 409,
+        "context": "[person4] just got a new buddy.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 410,
+        "context": "[person2] just got a new aunt.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 411,
+        "context": "[person2] just got a new grandfather.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 412,
+        "context": "[person3] just lost intimate.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 413,
+        "context": "[person4] just lost confidante.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 414,
+        "context": "[person4] just got a new assistant.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 415,
+        "context": "[person2] just lost chum.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 416,
+        "context": "[person4] just got a new penpal.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 417,
+        "context": "[person2] just lost mentor.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 418,
+        "context": "[person3] just got a new roommate.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 419,
+        "context": "There was a/an snowstorm.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 420,
+        "context": "[person3] just got a new confidante.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 421,
+        "context": "[person2] just got a new daughter.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 422,
+        "context": "[person4] had no idea who [person2] was supposed to be.",
+        "type": "antecedent",
+        "template_id": 3,
+        "max_person": 4
+    },
+    {
+        "context_id": 423,
+        "context": "[person1] just got a new grandparent.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 424,
+        "context": "[person2] just got a new rival.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 425,
+        "context": "[person1] just got a new parent.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 426,
+        "context": "[person2] just lost niece.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 427,
+        "context": "[person1] just got a new boss.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 428,
+        "context": "[person1] just got a new buddy.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 429,
+        "context": "There was a/an disaster.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 430,
+        "context": "[person2] just lost parent.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 431,
+        "context": "[person2] just got a new husband.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 432,
+        "context": "[person2] just lost classmate.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 433,
+        "context": "Something fortunate had just happened.",
+        "type": "antecedent",
+        "template_id": 7,
+        "max_person": 0
+    },
+    {
+        "context_id": 434,
+        "context": "[person1] just lost wife.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 435,
+        "context": "[person4] just lost girlfriend.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 436,
+        "context": "[person1] just lost husband.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 437,
+        "context": "[person2] just got a new comrade-in-arms.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 438,
+        "context": "There was a/an drought.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 439,
+        "context": "[person4] just lost granddaughter.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 440,
+        "context": "[person3] just lost granddaughter.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 441,
+        "context": "dust storm happened.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 442,
+        "context": "[person4] just lost mentor.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 443,
+        "context": "occupational accident happened.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 444,
+        "context": "[person1] just got a new wife.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 445,
+        "context": "[person1] just got a new cousin.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 446,
+        "context": "[person4] just got a new teacher.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 447,
+        "context": "[person1] just lost grandchild.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 448,
+        "context": "[person3] just lost mother.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 449,
+        "context": "There was a/an twister.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 450,
+        "context": "[person3] just got a new wife.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 451,
+        "context": "[person1] just got a new schoolmate.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 452,
+        "context": "forest fire happened.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 453,
+        "context": "[person4] just lost teammate.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 454,
+        "context": "There was a/an motorcycle accidents.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 455,
+        "context": "[person2] just got a new wife.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 456,
+        "context": "[person3] just got a new spouse.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 457,
+        "context": "[person1] just lost companion.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 458,
+        "context": "[person2] just lost brother.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 459,
+        "context": "There was a/an cyclone.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 460,
+        "context": "blizzard happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 461,
+        "context": "[person2] just lost boyfriend.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 462,
+        "context": "[person1] just lost competitor.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 1
+    },
+    {
+        "context_id": 463,
+        "context": "[person4] just got a new father.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 464,
+        "context": "There was a/an violent storm.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 465,
+        "context": "[person4] just lost grandmother.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 466,
+        "context": "[person2] just got a new confidante.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 467,
+        "context": "[person1] just got a new sibling.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 1
+    },
+    {
+        "context_id": 468,
+        "context": "There was a/an non-occupational accident.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 0
+    },
+    {
+        "context_id": 469,
+        "context": "[person3] just got a new grandson.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 3
+    },
+    {
+        "context_id": 470,
+        "context": "[person4] just got a new mother.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 471,
+        "context": "storm happened.",
+        "type": "antecedent",
+        "template_id": 1,
+        "max_person": 0
+    },
+    {
+        "context_id": 472,
+        "context": "[person1] had no idea who [person4] was supposed to be.",
+        "type": "antecedent",
+        "template_id": 3,
+        "max_person": 4
+    },
+    {
+        "context_id": 473,
+        "context": "[person2] just got a new grandchild.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 474,
+        "context": "[person3] just lost grandfather.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 475,
+        "context": "[person4] just got a new girlfriend.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 476,
+        "context": "[person2] just got a new penpal.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 2
+    },
+    {
+        "context_id": 477,
+        "context": "[person2] just got a new sworn enemy.",
+        "type": "antecedent",
+        "template_id": 0,
+        "max_person": 2
+    },
+    {
+        "context_id": 478,
+        "context": "[person2] just lost fellow-apprentice.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    },
+    {
+        "context_id": 479,
+        "context": "[person3] just lost classmate.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 3
+    },
+    {
+        "context_id": 480,
+        "context": "[person4] just got a new grandchild.",
+        "type": "antecedent",
+        "template_id": 9,
+        "max_person": 4
+    },
+    {
+        "context_id": 481,
+        "context": "[person4] just lost teacher.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 4
+    },
+    {
+        "context_id": 482,
+        "context": "[person2] just lost wife.",
+        "type": "antecedent",
+        "template_id": 8,
+        "max_person": 2
+    }
+]

@@ -1,0 +1,2424 @@
+The line of work that the [person3] is in is observatory
+[person3] is a operator.
+[person4]'s job is a actor/actress.
+[person2]'s job is a undertaker.
+[person3]'s job is a garbage man.
+The occupation of [person3] is a flutist.
+[person2]'s job is a landlord.
+The occupation of [person2] is a doctor.
+[person1] is a author.
+[person4] works for a/an bookshop.
+[person3] works for a/an farm.
+The occupation of [person3] is a governor.
+[person2] works in bowling alley.
+[person1] works for a/an amphitheater.
+[person4]'s job is a psychologist.
+The occupation of [person1] is a physician.
+[person3]'s job is a editor.
+[person1] is a lecturer.
+[person3]'s job is a cashier.
+[person2] works for a/an farm.
+[person2]'s job is a athlete.
+The line of work that the [person4] is in is farm
+[person3]'s job is a photographer.
+[person1]'s job is a farmer.
+The occupation of [person1] is a caregiver.
+The occupation of [person4] is a technician.
+[person1] is a photographer.
+The occupation of [person2] is a hobo.
+[person3]'s job is a educator.
+[person1]'s job is a nun.
+[person4] is a painter.
+[person3] is a butcher.
+The occupation of [person3] is a jester.
+[person4]'s job is a exporter.
+[person1]'s job is a garbage man.
+[person4] is a sheriff.
+[person1]'s job is a gatherer.
+[person2] is a nun.
+The occupation of [person1] is a foreman.
+[person2] is a professor.
+The occupation of [person3] is a jeweler.
+[person4] is a reporter.
+The occupation of [person4] is a emperor/empress.
+[person3] is a producer.
+[person2] works in library.
+[person2] works for a/an school.
+The occupation of [person3] is a navigator.
+[person2]'s job is a scholar.
+[person3] is a waiter/waitress.
+[person3] is a editor.
+The occupation of [person1] is a instructor.
+[person4] is a president.
+[person4] works for a/an observatory.
+The line of work that the [person3] is in is theater
+The occupation of [person4] is a coach.
+[person3]'s job is a lifeguard.
+The occupation of [person3] is a game designer.
+[person3] is a foreman.
+[person1] is a exporter.
+The occupation of [person1] is a baker.
+The occupation of [person3] is a ballerina.
+[person3] is a doctor.
+[person4]'s job is a restaurateur.
+The occupation of [person1] is a president.
+[person2] works in holiday inn.
+[person4] is a psychologist.
+[person4]'s job is a teacher.
+[person1]'s job is a writer.
+The occupation of [person3] is a astronaut.
+[person3]'s job is a landlord.
+[person1]'s job is a programmer.
+[person3]'s job is a jeweler.
+The occupation of [person4] is a singer.
+The occupation of [person4] is a spy.
+[person2] works in monastery.
+[person2]'s job is a banker.
+The occupation of [person3] is a poet.
+[person3] is a poet.
+[person4]'s job is a singer.
+[person2]'s job is a game designer.
+[person2]'s job is a restaurateur.
+The occupation of [person2] is a golfer.
+[person4]'s job is a philosopher.
+[person3] works for a/an forge.
+The occupation of [person4] is a dentist.
+[person1]'s job is a surgeon.
+[person4] is a worker.
+[person2] works in botanic garden.
+The occupation of [person3] is a builder.
+The occupation of [person3] is a plumber.
+[person1] is a novelist.
+[person3] is a educator.
+[person1]'s job is a salesperson.
+[person2] is a actuary.
+[person1] works for a/an church.
+[person3] works for a/an refinery.
+[person1] works in amphitheater.
+[person2] is a author.
+The occupation of [person2] is a drummer.
+[person3] is a receptionist.
+[person2] works in hotel.
+The line of work that the [person3] is in is bowling alley
+[person1]'s job is a clerk.
+[person4]'s job is a operator.
+[person1]'s job is a referee.
+[person4] is a clerk.
+[person2] is a police.
+[person4] works in laundry.
+[person4]'s job is a landlord.
+[person1] works in shipside.
+[person1] works in forge.
+[person4] is a director.
+The occupation of [person2] is a judge.
+[person3] works in laundry.
+[person4] is a plumber.
+The occupation of [person1] is a tailor.
+[person4]'s job is a publisher.
+[person3] is a fisherman.
+[person2]'s job is a artist.
+The occupation of [person4] is a president.
+[person2] works in school.
+The occupation of [person3] is a judge.
+[person1] works in hospital.
+[person3]'s job is a instructor.
+[person2]'s job is a buyer.
+[person4] is a mathematician.
+[person3] is a trainer.
+[person3] works for a/an bowling alley.
+[person1]'s job is a hunter.
+The occupation of [person1] is a barber.
+[person1] works in studio.
+The occupation of [person1] is a prince/princess.
+[person1] is a manager.
+[person4] is a accountant.
+[person1] is a cook.
+[person3] is a banker.
+[person2]'s job is a receptionist.
+[person2]'s job is a football player.
+[person3] is a philosopher.
+The occupation of [person2] is a game designer.
+[person3]'s job is a composer.
+The occupation of [person2] is a captain.
+[person3]'s job is a hunter.
+The occupation of [person4] is a tailor.
+The line of work that the [person2] is in is gym
+[person2] is a governor.
+[person4] is a referee.
+[person1]'s job is a policeman/policewoman.
+The occupation of [person4] is a surgeon.
+[person1]'s job is a foreman.
+[person3]'s job is a performer.
+The occupation of [person3] is a internist.
+The occupation of [person1] is a designer.
+The occupation of [person4] is a jeweler.
+[person2] works in hospital.
+[person1]'s job is a editor.
+The occupation of [person3] is a coach.
+[person1]'s job is a golfer.
+[person1] is a landlord.
+[person4] is a dentist.
+The line of work that the [person3] is in is museum
+[person2]'s job is a doorman.
+[person3]'s job is a foreman.
+[person2] is a ballerina.
+[person4] works for a/an forge.
+[person4] is a soldier.
+[person3]'s job is a fisherman.
+[person1] is a soldier.
+[person1] is a policeman/policewoman.
+[person1] works for a/an government.
+[person2]'s job is a librarian.
+[person2] is a basketball player.
+[person4]'s job is a navigator.
+The occupation of [person2] is a mathematician.
+The occupation of [person4] is a gardener.
+The occupation of [person2] is a writer.
+[person4]'s job is a firefighter.
+[person1]'s job is a soldier.
+The occupation of [person2] is a gardener.
+[person4]'s job is a internist.
+The occupation of [person1] is a soldier.
+The occupation of [person3] is a emperor/empress.
+[person4] is a football player.
+The occupation of [person2] is a babysitter.
+[person3] is a marketer.
+The occupation of [person1] is a model.
+The occupation of [person2] is a tailor.
+[person3]'s job is a interviewer.
+[person3] works for a/an gas station.
+The occupation of [person3] is a laborer.
+The occupation of [person3] is a doorman.
+[person3] works for a/an aircraft hangar.
+The occupation of [person2] is a bellhop.
+The occupation of [person1] is a football player.
+[person4] is a butcher.
+[person3]'s job is a novelist.
+[person4]'s job is a explorer.
+[person2] is a chaplain.
+The occupation of [person3] is a restaurateur.
+The occupation of [person4] is a director.
+[person3] works in post office.
+[person3]'s job is a cook.
+[person2]'s job is a instructor.
+The occupation of [person2] is a jester.
+[person2] is a plumber.
+The occupation of [person4] is a programmer.
+The occupation of [person3] is a bellhop.
+[person1] is a mathematician.
+The occupation of [person3] is a driver.
+The occupation of [person4] is a baker.
+The occupation of [person4] is a monk.
+[person4] works in embassy.
+The occupation of [person2] is a coach.
+[person3] is a internist.
+The occupation of [person2] is a diver.
+[person4]'s job is a librarian.
+[person4] works for a/an hospital.
+[person3] is a actor/actress.
+[person2]'s job is a carpenter.
+The occupation of [person3] is a journalist.
+[person3]'s job is a smith.
+The occupation of [person1] is a landlord.
+[person2]'s job is a poet.
+[person3] is a unemployed.
+[person2] works in ranch.
+[person1]'s job is a plumber.
+[person3] works for a/an library.
+[person3]'s job is a bellhop.
+[person4] works in post office.
+[person2]'s job is a smith.
+The occupation of [person3] is a golfer.
+[person2] is a landlord.
+[person4]'s job is a senator.
+The line of work that the [person1] is in is bus station
+[person3]'s job is a baker.
+The occupation of [person2] is a designer.
+[person2] works for a/an hostel.
+[person3] works in airport.
+[person3] works in laboratory.
+[person1] is a accountant.
+[person4] is a sailor.
+The occupation of [person1] is a umpire.
+The line of work that the [person4] is in is ranch
+[person4] works in university.
+The occupation of [person4] is a politician.
+[person2]'s job is a educator.
+[person2]'s job is a ambassador.
+[person1] works in cinema.
+[person1] works for a/an fire station.
+[person2]'s job is a gardener.
+[person4]'s job is a interviewer.
+[person4] works in farm.
+[person4] works for a/an university.
+[person1]'s job is a emperor/empress.
+The occupation of [person2] is a performer.
+[person3] is a director.
+[person1] is a chaplain.
+The line of work that the [person3] is in is shopping center
+[person1]'s job is a bellhop.
+[person1] works for a/an aircraft hangar.
+The occupation of [person2] is a salesperson.
+[person1]'s job is a model.
+The occupation of [person1] is a gatherer.
+[person3]'s job is a navigator.
+[person2] works in foundry.
+The occupation of [person4] is a ballerina.
+[person2]'s job is a doctor.
+[person1] works for a/an botanic garden.
+[person1]'s job is a scholar.
+[person1]'s job is a psychologist.
+[person4] is a artist.
+The occupation of [person1] is a babysitter.
+[person1]'s job is a guide.
+[person3]'s job is a manager.
+The occupation of [person4] is a banker.
+The occupation of [person1] is a lifeguard.
+[person3] is a writer.
+[person4] works for a/an botanic garden.
+[person1] works for a/an refinery.
+[person4] is a driver.
+The occupation of [person4] is a entrepreneur.
+The occupation of [person4] is a teacher.
+[person1]'s job is a exporter.
+[person1]'s job is a doorman.
+[person2] works for a/an drugstore.
+[person1] works for a/an drugstore.
+The occupation of [person4] is a sheriff.
+[person3] works for a/an shipside.
+[person3] is a lecturer.
+The occupation of [person3] is a mathematician.
+The occupation of [person4] is a novelist.
+[person4] is a fisherman.
+[person3] is a star.
+[person1] is a salesperson.
+[person2] works for a/an restaurant.
+[person2]'s job is a driver.
+The occupation of [person3] is a publisher.
+[person4] is a musician.
+[person2] is a lecturer.
+[person1] works in botanic garden.
+[person1] is a plumber.
+[person3]'s job is a buyer.
+[person4]'s job is a star.
+[person4]'s job is a ambassador.
+The occupation of [person2] is a banker.
+[person1]'s job is a messenger.
+[person3] works for a/an school.
+[person4] works in ranch.
+[person2] is a translator.
+[person3] works in market.
+[person2]'s job is a producer.
+[person3]'s job is a jailer.
+The occupation of [person4] is a painter.
+The occupation of [person2] is a producer.
+[person3]'s job is a plumber.
+The occupation of [person1] is a scientist.
+[person4]'s job is a jeweler.
+[person3]'s job is a gatherer.
+[person3]'s job is a pilot.
+The occupation of [person1] is a marine.
+The occupation of [person4] is a garbage man.
+[person2]'s job is a lawyer.
+[person2]'s job is a president.
+[person4] is a flutist.
+The occupation of [person4] is a doctor.
+[person2] is a swimmer.
+[person1]'s job is a accountant.
+The line of work that the [person1] is in is school
+The occupation of [person1] is a salesperson.
+The occupation of [person1] is a referee.
+[person1] works in farm.
+[person2]'s job is a bellhop.
+[person1]'s job is a librarian.
+The occupation of [person4] is a philosopher.
+[person4] works in police station.
+[person1] is a designer.
+[person3] is a engineer.
+The occupation of [person4] is a explorer.
+The occupation of [person4] is a lawyer.
+[person4]'s job is a researcher.
+[person1]'s job is a engineer.
+[person2] is a clerk.
+[person3]'s job is a dancer.
+[person3]'s job is a tutor.
+[person4] is a teacher.
+[person4]'s job is a dentist.
+[person1] is a tutor.
+The occupation of [person2] is a hunter.
+[person1]'s job is a philosopher.
+[person3] works in hostel.
+The occupation of [person1] is a scholar.
+[person4] is a banker.
+[person3]'s job is a gardener.
+[person2] works in aircraft hangar.
+The occupation of [person4] is a professor.
+The occupation of [person1] is a technician.
+The occupation of [person1] is a typist.
+The occupation of [person2] is a editor.
+The occupation of [person3] is a ambassador.
+[person2] works for a/an church.
+[person1]'s job is a worker.
+The line of work that the [person4] is in is monastery
+[person3] is a laborer.
+The occupation of [person2] is a bookkeeper.
+[person4]'s job is a mathematician.
+The occupation of [person4] is a scientist.
+[person3]'s job is a professor.
+[person4] is a messenger.
+[person1] is a receptionist.
+The occupation of [person2] is a teacher.
+[person3]'s job is a reporter.
+[person2] is a navigator.
+[person3] works in shopping center.
+[person1] is a bellhop.
+The occupation of [person1] is a trader.
+[person2] is a fisherman.
+The occupation of [person3] is a nurse.
+The occupation of [person3] is a dentist.
+[person1] works in hostel.
+[person1]'s job is a butcher.
+[person1] is a warden.
+The occupation of [person1] is a librarian.
+The occupation of [person1] is a basketball player.
+[person2] is a astronomer.
+[person4]'s job is a painter.
+[person2] works in cinema.
+The line of work that the [person4] is in is amphitheater
+The occupation of [person3] is a director.
+The line of work that the [person4] is in is hostel
+[person2] is a operator.
+The occupation of [person4] is a policeman/policewoman.
+The occupation of [person1] is a smith.
+The occupation of [person1] is a teacher.
+The occupation of [person3] is a performer.
+The occupation of [person4] is a butcher.
+The occupation of [person2] is a flutist.
+[person2] works for a/an police station.
+[person4]'s job is a physician.
+[person4] works in bookshop.
+[person3] works for a/an observatory.
+The line of work that the [person3] is in is government
+The occupation of [person1] is a researcher.
+The occupation of [person1] is a detective.
+[person3] is a hobo.
+[person4] is a trader.
+The occupation of [person2] is a operator.
+[person3] works for a/an market.
+[person3]'s job is a scientist.
+[person1] works in church.
+[person3] is a doorman.
+[person3]'s job is a umpire.
+[person1] is a drummer.
+[person1] works in library.
+The line of work that the [person2] is in is gas station
+The occupation of [person3] is a veterinarian.
+[person4]'s job is a foreman.
+The line of work that the [person3] is in is hospital
+[person4]'s job is a unemployed.
+The occupation of [person2] is a umpire.
+[person3] is a musician.
+[person4] works for a/an embassy.
+The occupation of [person4] is a photographer.
+[person2]'s job is a butcher.
+[person1]'s job is a chef.
+The occupation of [person4] is a guide.
+The line of work that the [person3] is in is studio
+[person1] is a doorman.
+[person2] works for a/an botanic garden.
+The occupation of [person3] is a psychologist.
+[person1] is a president.
+[person1] is a governor.
+[person4]'s job is a poet.
+The line of work that the [person3] is in is church
+[person4]'s job is a sheriff.
+[person4] works in holiday inn.
+[person4] works in laboratory.
+The occupation of [person3] is a trainer.
+[person3] works for a/an university.
+The occupation of [person4] is a toolmaker.
+[person4]'s job is a scientist.
+[person4] works in bar.
+[person1]'s job is a sailor.
+[person2] works in restaurant.
+The line of work that the [person1] is in is hospital
+[person2]'s job is a advisor.
+[person3]'s job is a nurse.
+[person4] is a lawyer.
+The occupation of [person1] is a sheriff.
+[person4] works for a/an drugstore.
+The occupation of [person2] is a painter.
+The occupation of [person2] is a educator.
+[person1] is a painter.
+[person1] works for a/an observatory.
+[person4] is a editor.
+[person2] works in supermarket.
+[person1] is a jester.
+[person3] is a reporter.
+[person2] is a driver.
+The occupation of [person4] is a bellhop.
+[person4]'s job is a financier.
+The occupation of [person2] is a entrepreneur.
+The occupation of [person1] is a unemployed.
+The occupation of [person2] is a publisher.
+[person3]'s job is a emperor/empress.
+The occupation of [person3] is a barber.
+[person1] is a surgeon.
+[person3] is a football player.
+[person2]'s job is a philosopher.
+[person3] is a financier.
+[person2] is a athlete.
+[person2]'s job is a writer.
+The occupation of [person1] is a toolmaker.
+[person2]'s job is a prince/princess.
+The occupation of [person2] is a smith.
+[person3] works in farm.
+The line of work that the [person2] is in is monastery
+[person2]'s job is a designer.
+[person4] is a athlete.
+[person1] is a basketball player.
+The occupation of [person3] is a politician.
+[person3] works in drugstore.
+The occupation of [person3] is a entrepreneur.
+The occupation of [person2] is a spy.
+[person3]'s job is a builder.
+[person1]'s job is a buyer.
+[person4] works for a/an school.
+The occupation of [person1] is a butcher.
+[person3]'s job is a surgeon.
+[person1]'s job is a dentist.
+[person1]'s job is a interpreter.
+[person3] works in gas station.
+The occupation of [person4] is a driver.
+The line of work that the [person2] is in is holiday inn
+[person2] works in hostel.
+[person4] is a chef.
+[person4] works for a/an government.
+[person3] is a carpenter.
+The line of work that the [person2] is in is amphitheater
+[person1] is a composer.
+[person1] is a pilot.
+[person4] is a bookkeeper.
+The line of work that the [person2] is in is theater
+The occupation of [person4] is a carpenter.
+The occupation of [person2] is a policeman/policewoman.
+[person1] is a scientist.
+The occupation of [person3] is a principal.
+The line of work that the [person2] is in is shipside
+The occupation of [person4] is a judge.
+[person2] works for a/an cinema.
+The occupation of [person3] is a educator.
+[person3]'s job is a writer.
+[person4] works for a/an laboratory.
+[person4] works for a/an foundry.
+The line of work that the [person3] is in is drugstore
+The line of work that the [person4] is in is gym
+[person4]'s job is a veterinarian.
+The occupation of [person4] is a translator.
+[person2] is a smith.
+[person4] is a restaurateur.
+[person2] is a publisher.
+[person3] is a messenger.
+[person3]'s job is a waiter/waitress.
+[person3] works for a/an foundry.
+The occupation of [person1] is a samurai.
+[person4] is a physician.
+[person1]'s job is a barber.
+[person1] works for a/an art gallery.
+The occupation of [person1] is a musician.
+[person2] is a laborer.
+The occupation of [person3] is a garbage man.
+[person2] is a marine.
+[person3]'s job is a journalist.
+The occupation of [person4] is a barber.
+[person3]'s job is a director.
+The occupation of [person2] is a internist.
+[person4] is a translator.
+The occupation of [person2] is a police.
+The occupation of [person3] is a salesperson.
+[person1]'s job is a athlete.
+[person3] works for a/an bar.
+The occupation of [person3] is a samurai.
+The occupation of [person1] is a spy.
+The occupation of [person3] is a policeman/policewoman.
+[person3]'s job is a actuary.
+[person3]'s job is a doctor.
+[person4] is a electrician.
+[person4] works for a/an shipside.
+The occupation of [person2] is a director.
+[person1] is a gatherer.
+The occupation of [person2] is a jeweler.
+[person2]'s job is a entrepreneur.
+[person4] is a ambassador.
+[person4]'s job is a spy.
+The line of work that the [person2] is in is bus station
+[person3] is a mayor.
+[person4]'s job is a instructor.
+The line of work that the [person3] is in is laundry
+The occupation of [person3] is a clerk.
+The occupation of [person4] is a clerk.
+[person3] works for a/an police station.
+The occupation of [person4] is a pilot.
+[person1] is a flutist.
+[person4]'s job is a programmer.
+The occupation of [person4] is a trader.
+The line of work that the [person3] is in is gym
+[person4] is a programmer.
+[person4]'s job is a sailor.
+[person2] is a dancer.
+The occupation of [person2] is a foreman.
+[person1] is a writer.
+The line of work that the [person3] is in is motel
+The occupation of [person2] is a chef.
+[person3]'s job is a carpenter.
+[person3]'s job is a magician.
+[person1] works for a/an gas station.
+[person2] works for a/an university.
+The line of work that the [person4] is in is fire station
+[person4]'s job is a toolmaker.
+[person2]'s job is a builder.
+[person2]'s job is a mail carrier.
+[person1]'s job is a publisher.
+[person3] is a swimmer.
+[person4] works for a/an laundry.
+The occupation of [person1] is a engineer.
+The occupation of [person3] is a athlete.
+The line of work that the [person2] is in is abbey
+[person2] works in bus station.
+The occupation of [person1] is a cashier.
+[person4]'s job is a plumber.
+The occupation of [person4] is a waiter/waitress.
+The line of work that the [person4] is in is shopping center
+[person2] is a foreman.
+[person2] works for a/an amphitheater.
+[person3] works in art gallery.
+The line of work that the [person2] is in is foundry
+The occupation of [person3] is a undertaker.
+The occupation of [person2] is a butcher.
+[person1] works in ranch.
+The occupation of [person4] is a nurse.
+The occupation of [person2] is a lecturer.
+[person2] is a chef.
+[person1]'s job is a police.
+The occupation of [person2] is a undertaker.
+[person2]'s job is a firefighter.
+The line of work that the [person3] is in is post office
+The occupation of [person3] is a singer.
+[person4]'s job is a laborer.
+[person2] is a dentist.
+[person4] works in shopping center.
+[person1] is a captain.
+[person2]'s job is a actor/actress.
+[person2] works in amphitheater.
+[person1] works for a/an hostel.
+The line of work that the [person1] is in is bar
+[person4] works in art gallery.
+The line of work that the [person2] is in is fire station
+The occupation of [person1] is a hobo.
+[person3] is a drummer.
+The occupation of [person3] is a hunter.
+[person1]'s job is a receptionist.
+[person4] is a monk.
+The occupation of [person4] is a captain.
+The occupation of [person2] is a cook.
+[person1] works in fire station.
+[person2]'s job is a author.
+The occupation of [person1] is a professor.
+[person2]'s job is a drummer.
+[person4]'s job is a game designer.
+The occupation of [person4] is a internist.
+[person4] is a scholar.
+[person3]'s job is a hobo.
+The occupation of [person2] is a jailer.
+[person4] works for a/an monastery.
+[person4] works for a/an post office.
+The line of work that the [person1] is in is church
+[person3] works in gym.
+The occupation of [person4] is a senator.
+[person4] is a lecturer.
+[person2]'s job is a gatherer.
+[person3] is a accountant.
+The line of work that the [person4] is in is university
+[person4] works in cinema.
+[person1] is a clerk.
+[person2]'s job is a cook.
+The occupation of [person1] is a banker.
+[person4] is a farmer.
+The line of work that the [person3] is in is botanic garden
+The occupation of [person2] is a governor.
+[person3]'s job is a programmer.
+The occupation of [person1] is a athlete.
+The occupation of [person3] is a trader.
+[person2] works for a/an art gallery.
+[person3] is a physician.
+[person2] is a pilot.
+[person2] is a surgeon.
+[person3] is a smith.
+The occupation of [person4] is a interpreter.
+The occupation of [person1] is a gardener.
+[person2]'s job is a laborer.
+[person3] is a professor.
+The occupation of [person4] is a fisherman.
+[person2]'s job is a caregiver.
+The occupation of [person1] is a veterinarian.
+[person3] is a golfer.
+[person3]'s job is a undertaker.
+[person1] works in laboratory.
+[person3] works in cinema.
+The occupation of [person4] is a jailer.
+[person1]'s job is a scientist.
+[person3] is a advisor.
+The occupation of [person2] is a garbage man.
+[person2] is a reporter.
+The occupation of [person1] is a messenger.
+[person1] is a messenger.
+[person1] works in embassy.
+[person2]'s job is a trainer.
+[person3] is a guide.
+The occupation of [person3] is a artist.
+[person3] is a painter.
+The occupation of [person1] is a writer.
+The occupation of [person4] is a lecturer.
+[person1]'s job is a navigator.
+[person1] works in monastery.
+[person2] is a researcher.
+[person3]'s job is a unemployed.
+[person1]'s job is a photographer.
+The occupation of [person3] is a physician.
+[person3] is a veterinarian.
+[person1] is a publisher.
+[person2] is a lifeguard.
+The occupation of [person1] is a producer.
+[person3] is a president.
+[person1] is a programmer.
+[person3] is a plumber.
+[person2] is a accountant.
+[person4] is a marketer.
+[person4]'s job is a football player.
+[person2] works in gym.
+[person2] is a bellhop.
+[person1]'s job is a poet.
+[person3] works for a/an art gallery.
+[person2] is a buyer.
+[person2] works for a/an foundry.
+[person2] is a trader.
+[person2]'s job is a typist.
+[person1] is a ballerina.
+The line of work that the [person2] is in is museum
+The occupation of [person1] is a politician.
+[person2] works for a/an government.
+The occupation of [person1] is a internist.
+[person3] is a clerk.
+[person4] works for a/an garage.
+[person3]'s job is a salesperson.
+[person4] works for a/an gym.
+[person1]'s job is a pilot.
+The occupation of [person1] is a firefighter.
+[person4] is a surgeon.
+[person1]'s job is a electrician.
+[person1] is a guide.
+[person2] is a scientist.
+[person4] is a cashier.
+[person1] works in capitol.
+[person4] is a mail carrier.
+[person1]'s job is a advisor.
+[person2]'s job is a composer.
+The line of work that the [person4] is in is holiday inn
+[person3]'s job is a researcher.
+The line of work that the [person4] is in is refinery
+[person4] is a manager.
+[person1] is a scholar.
+The occupation of [person3] is a guide.
+The occupation of [person2] is a driver.
+[person2] works for a/an holiday inn.
+[person3] is a translator.
+The occupation of [person2] is a detective.
+The line of work that the [person2] is in is aircraft hangar
+[person1] works in market.
+The line of work that the [person3] is in is shipside
+[person1] is a fisherman.
+[person4] is a dancer.
+[person3]'s job is a musician.
+[person1] is a advisor.
+The line of work that the [person4] is in is forge
+The line of work that the [person3] is in is embassy
+[person2] is a monk.
+The occupation of [person4] is a poet.
+[person3]'s job is a astronaut.
+[person3] is a umpire.
+[person3]'s job is a chef.
+The occupation of [person2] is a receptionist.
+[person3]'s job is a model.
+[person3]'s job is a toolmaker.
+The occupation of [person1] is a plumber.
+[person1]'s job is a jeweler.
+[person2]'s job is a barber.
+[person4] works for a/an ranch.
+The line of work that the [person1] is in is government
+[person3] is a gardener.
+[person3]'s job is a tailor.
+[person3]'s job is a clerk.
+[person1]'s job is a game designer.
+[person1] is a educator.
+[person2] is a jester.
+The occupation of [person2] is a programmer.
+The line of work that the [person2] is in is bar
+[person3]'s job is a referee.
+The occupation of [person3] is a worker.
+[person2] works for a/an hotel.
+The occupation of [person1] is a restaurateur.
+[person1]'s job is a chaplain.
+[person3] is a flutist.
+[person2] works in airport.
+The occupation of [person2] is a dancer.
+[person1] is a farmer.
+The occupation of [person4] is a mail carrier.
+The occupation of [person2] is a star.
+The line of work that the [person1] is in is holiday inn
+[person1] is a diver.
+The occupation of [person3] is a swimmer.
+The line of work that the [person2] is in is forge
+The occupation of [person2] is a ballerina.
+The occupation of [person3] is a marine.
+[person2]'s job is a electrician.
+[person4] is a actuary.
+[person3] works in ranch.
+[person1] works in bookshop.
+[person1]'s job is a ambassador.
+The occupation of [person3] is a manager.
+[person4]'s job is a receptionist.
+The occupation of [person3] is a sheriff.
+[person3]'s job is a golfer.
+[person1] is a lifeguard.
+The occupation of [person4] is a star.
+[person2] is a ambassador.
+[person3]'s job is a physician.
+[person4] is a magician.
+The occupation of [person4] is a laborer.
+[person2]'s job is a politician.
+[person3] is a firefighter.
+[person3] is a judge.
+[person4]'s job is a nurse.
+The occupation of [person1] is a waiter/waitress.
+[person4]'s job is a flutist.
+The occupation of [person1] is a programmer.
+[person3] is a garbage man.
+[person3] is a scholar.
+The occupation of [person2] is a translator.
+[person3] is a caregiver.
+The line of work that the [person2] is in is restaurant
+[person4]'s job is a coach.
+The occupation of [person4] is a baseball player.
+The occupation of [person2] is a author.
+[person4]'s job is a photographer.
+The occupation of [person1] is a undertaker.
+The occupation of [person1] is a governor.
+[person4] is a barber.
+[person2]'s job is a farmer.
+[person2]'s job is a golfer.
+[person2] works in laundry.
+The occupation of [person3] is a monk.
+[person1]'s job is a waiter/waitress.
+The occupation of [person1] is a garbage man.
+[person2]'s job is a senator.
+[person1]'s job is a spy.
+The occupation of [person4] is a magician.
+[person4] is a student.
+[person3] is a ambassador.
+[person2] works in observatory.
+[person2]'s job is a painter.
+The line of work that the [person3] is in is aircraft hangar
+The occupation of [person1] is a lawyer.
+[person1] is a mail carrier.
+The occupation of [person1] is a operator.
+[person3]'s job is a librarian.
+[person2] works in embassy.
+[person1] works for a/an ranch.
+The occupation of [person3] is a caregiver.
+[person4]'s job is a entrepreneur.
+The occupation of [person3] is a spy.
+[person2] is a lawyer.
+[person4]'s job is a jailer.
+[person3]'s job is a detective.
+[person1]'s job is a restaurateur.
+[person3]'s job is a trader.
+The line of work that the [person3] is in is garage
+The occupation of [person3] is a writer.
+[person1] is a judge.
+[person3] is a toolmaker.
+The occupation of [person4] is a messenger.
+The occupation of [person3] is a librarian.
+The line of work that the [person4] is in is bus station
+The line of work that the [person1] is in is drugstore
+[person2]'s job is a surgeon.
+[person4] is a explorer.
+[person3]'s job is a teacher.
+[person3]'s job is a accountant.
+[person4]'s job is a pilot.
+[person4] is a laborer.
+[person4] is a drummer.
+The occupation of [person4] is a financier.
+[person1]'s job is a trader.
+[person4] is a mechanic.
+The occupation of [person1] is a golfer.
+[person1] is a interpreter.
+[person1]'s job is a warden.
+[person4]'s job is a referee.
+[person2] works for a/an shipside.
+The line of work that the [person1] is in is aircraft hangar
+[person2] works in theater.
+The occupation of [person2] is a advisor.
+[person1]'s job is a prince/princess.
+[person3] works for a/an garage.
+[person3] is a surgeon.
+The occupation of [person2] is a artist.
+[person3]'s job is a psychologist.
+[person2] is a warden.
+The line of work that the [person1] is in is shopping center
+[person4] is a navigator.
+[person3]'s job is a explorer.
+The line of work that the [person4] is in is library
+[person3] is a journalist.
+[person4] is a researcher.
+The line of work that the [person2] is in is bookshop
+[person4]'s job is a caregiver.
+The line of work that the [person2] is in is garage
+[person4]'s job is a police.
+[person3] is a builder.
+[person1] is a foreman.
+[person1] works for a/an school.
+[person1] works in restaurant.
+[person1] is a tailor.
+The line of work that the [person1] is in is botanic garden
+The occupation of [person1] is a tutor.
+[person3]'s job is a prince/princess.
+[person2] is a flutist.
+[person1]'s job is a ballerina.
+[person2] is a baker.
+[person3] works for a/an post office.
+The occupation of [person2] is a reporter.
+[person3] is a diver.
+[person4] is a advisor.
+[person2]'s job is a emperor/empress.
+The line of work that the [person4] is in is church
+The occupation of [person1] is a policeman/policewoman.
+[person2] is a scholar.
+The line of work that the [person4] is in is bookshop
+[person4]'s job is a artist.
+[person2] is a journalist.
+[person1] is a swimmer.
+The occupation of [person2] is a dentist.
+[person1] works for a/an airport.
+The occupation of [person2] is a ambassador.
+The occupation of [person4] is a ambassador.
+[person3]'s job is a mechanic.
+The occupation of [person3] is a explorer.
+[person2] works in bar.
+The occupation of [person4] is a chaplain.
+[person4] works in gym.
+[person4]'s job is a pianist.
+[person3] works in bus station.
+[person1]'s job is a cook.
+[person1] is a hunter.
+The occupation of [person1] is a manager.
+[person3] works in garage.
+[person4] is a guide.
+The occupation of [person2] is a explorer.
+[person3] works in government.
+[person1] is a babysitter.
+[person2]'s job is a interviewer.
+The line of work that the [person3] is in is fire station
+[person2] is a restaurateur.
+[person1]'s job is a jailer.
+[person1] works in theater.
+[person1] works in foundry.
+The occupation of [person2] is a nurse.
+[person3]'s job is a engineer.
+[person2]'s job is a novelist.
+[person4] is a golfer.
+[person3] is a worker.
+The line of work that the [person3] is in is hostel
+The occupation of [person2] is a laborer.
+[person3]'s job is a electrician.
+[person1]'s job is a novelist.
+[person2]'s job is a hobo.
+The occupation of [person2] is a firefighter.
+[person4]'s job is a accountant.
+The line of work that the [person1] is in is forge
+The occupation of [person2] is a navigator.
+The occupation of [person2] is a plumber.
+[person3]'s job is a marine.
+The occupation of [person4] is a artist.
+The occupation of [person1] is a trainer.
+[person3] is a chef.
+The occupation of [person1] is a magician.
+[person3] is a coach.
+[person3] works in abbey.
+The occupation of [person3] is a programmer.
+[person3] works for a/an botanic garden.
+The occupation of [person2] is a chaplain.
+[person1] is a astronomer.
+[person2] is a interviewer.
+[person3]'s job is a samurai.
+[person2] is a captain.
+[person1] works for a/an motel.
+[person1] is a dentist.
+[person4] is a novelist.
+[person3] works in aircraft hangar.
+[person4] is a chaplain.
+The occupation of [person3] is a musician.
+[person3] is a soldier.
+The occupation of [person3] is a pianist.
+The occupation of [person4] is a actuary.
+[person2]'s job is a waiter/waitress.
+[person4]'s job is a butcher.
+The occupation of [person2] is a scientist.
+[person4]'s job is a bellhop.
+[person2] is a game designer.
+[person1] works in refinery.
+[person2] is a star.
+The occupation of [person3] is a interviewer.
+[person2]'s job is a jester.
+[person1] works in university.
+[person2]'s job is a pianist.
+[person4] is a garbage man.
+The line of work that the [person1] is in is market
+[person4] works for a/an church.
+[person3]'s job is a receptionist.
+The line of work that the [person2] is in is university
+[person1] is a teacher.
+The occupation of [person3] is a magician.
+The occupation of [person1] is a receptionist.
+[person4] works in garage.
+[person3] is a artist.
+The occupation of [person4] is a veterinarian.
+[person3] is a warden.
+[person4]'s job is a governor.
+[person1] works in bus station.
+[person1] is a toolmaker.
+[person2] is a mechanic.
+[person3] works in school.
+[person1] is a banker.
+The occupation of [person1] is a pianist.
+The occupation of [person4] is a mathematician.
+[person4] is a landlord.
+The occupation of [person1] is a philosopher.
+The occupation of [person3] is a mail carrier.
+[person4] is a caregiver.
+[person4] is a warden.
+[person3] is a baseball player.
+[person2] is a detective.
+[person1]'s job is a actuary.
+The occupation of [person4] is a reporter.
+[person2] is a gardener.
+[person1]'s job is a bookkeeper.
+The line of work that the [person3] is in is hotel
+The occupation of [person2] is a sheriff.
+[person3]'s job is a game designer.
+[person4] is a policeman/policewoman.
+[person1] is a philosopher.
+[person4] is a nun.
+The line of work that the [person1] is in is refinery
+The occupation of [person2] is a messenger.
+[person3] is a governor.
+[person3] works for a/an embassy.
+The occupation of [person4] is a trainer.
+[person2] is a emperor/empress.
+[person4]'s job is a diver.
+The occupation of [person1] is a author.
+[person2] is a senator.
+[person3] is a teacher.
+[person1] works for a/an bowling alley.
+[person2] works in garage.
+[person2]'s job is a interpreter.
+The occupation of [person2] is a fisherman.
+The occupation of [person4] is a babysitter.
+[person3]'s job is a author.
+[person2] is a salesperson.
+[person1] works for a/an embassy.
+The occupation of [person2] is a journalist.
+The occupation of [person1] is a singer.
+The occupation of [person1] is a mayor.
+The line of work that the [person1] is in is cinema
+The occupation of [person3] is a tailor.
+[person1] is a reporter.
+[person2] works in shopping center.
+The line of work that the [person3] is in is university
+[person2] is a babysitter.
+The occupation of [person4] is a sailor.
+[person3] is a sheriff.
+[person2] works for a/an bus station.
+[person2] is a undertaker.
+[person2] is a trainer.
+[person2] is a entrepreneur.
+[person4] is a photographer.
+[person2] is a receptionist.
+[person3] is a cashier.
+The occupation of [person4] is a governor.
+[person2]'s job is a judge.
+The line of work that the [person3] is in is farm
+The occupation of [person2] is a actor/actress.
+The line of work that the [person4] is in is art gallery
+The occupation of [person1] is a performer.
+[person3]'s job is a driver.
+[person3]'s job is a drummer.
+[person4] is a scientist.
+[person1]'s job is a lawyer.
+The occupation of [person4] is a marine.
+[person2] works in fire station.
+[person4]'s job is a warden.
+The occupation of [person2] is a soldier.
+[person1] works for a/an forge.
+[person4] is a nurse.
+The line of work that the [person3] is in is gas station
+[person1]'s job is a performer.
+The occupation of [person2] is a guide.
+[person3] works in police station.
+[person4]'s job is a policeman/policewoman.
+[person3]'s job is a coach.
+The occupation of [person1] is a mail carrier.
+[person2] is a samurai.
+The line of work that the [person1] is in is airport
+[person2]'s job is a astronaut.
+[person1] is a senator.
+[person1]'s job is a professor.
+The line of work that the [person1] is in is theater
+[person3]'s job is a swimmer.
+[person1]'s job is a politician.
+[person1] is a instructor.
+The occupation of [person1] is a publisher.
+[person2]'s job is a chef.
+[person2] works in bookshop.
+The occupation of [person2] is a builder.
+The occupation of [person3] is a baseball player.
+The occupation of [person3] is a mechanic.
+The line of work that the [person1] is in is museum
+[person3] is a tutor.
+[person2] works in church.
+[person1]'s job is a translator.
+[person1] is a internist.
+[person4] is a firefighter.
+The occupation of [person1] is a baseball player.
+The occupation of [person1] is a drummer.
+[person3] is a entrepreneur.
+The occupation of [person1] is a financier.
+[person3] works for a/an monastery.
+The occupation of [person2] is a astronaut.
+[person1] is a journalist.
+The line of work that the [person2] is in is laundry
+The occupation of [person1] is a bookkeeper.
+[person2]'s job is a principal.
+The occupation of [person4] is a unemployed.
+[person1] is a performer.
+[person2]'s job is a police.
+The occupation of [person3] is a captain.
+[person2] is a tailor.
+The line of work that the [person3] is in is forge
+[person2] is a politician.
+The occupation of [person1] is a driver.
+[person2] is a astronaut.
+[person2] is a mail carrier.
+The occupation of [person4] is a tutor.
+[person3] is a farmer.
+The line of work that the [person2] is in is market
+[person1]'s job is a lifeguard.
+[person1]'s job is a tailor.
+[person1] is a nun.
+The occupation of [person2] is a baseball player.
+[person2]'s job is a nurse.
+[person2]'s job is a technician.
+The line of work that the [person2] is in is cinema
+The occupation of [person1] is a translator.
+The occupation of [person3] is a umpire.
+[person3] works in holiday inn.
+The occupation of [person1] is a actor/actress.
+[person2]'s job is a unemployed.
+[person4] works in aircraft hangar.
+The occupation of [person3] is a butcher.
+The occupation of [person3] is a president.
+The occupation of [person1] is a composer.
+[person2]'s job is a soldier.
+[person1]'s job is a fisherman.
+The occupation of [person4] is a diver.
+The occupation of [person1] is a explorer.
+[person2]'s job is a actuary.
+[person1] is a golfer.
+[person1]'s job is a babysitter.
+The occupation of [person1] is a pilot.
+[person4] works for a/an shopping center.
+The occupation of [person4] is a athlete.
+[person3]'s job is a football player.
+The line of work that the [person1] is in is shipside
+The occupation of [person4] is a performer.
+[person2] is a jailer.
+[person4]'s job is a fisherman.
+[person4] is a principal.
+[person4] is a salesperson.
+[person4] is a hobo.
+[person4] is a doctor.
+The occupation of [person1] is a laborer.
+[person3]'s job is a restaurateur.
+[person2] is a teacher.
+[person1]'s job is a musician.
+The occupation of [person2] is a referee.
+[person1] is a interviewer.
+[person4]'s job is a smith.
+[person2]'s job is a star.
+The occupation of [person1] is a doctor.
+[person3]'s job is a internist.
+[person1] works for a/an bar.
+The occupation of [person2] is a waiter/waitress.
+The occupation of [person1] is a photographer.
+[person3] is a singer.
+The line of work that the [person4] is in is laboratory
+The line of work that the [person4] is in is botanic garden
+[person1]'s job is a baker.
+[person4] is a pianist.
+[person2]'s job is a chaplain.
+The occupation of [person2] is a worker.
+[person4]'s job is a nun.
+[person2]'s job is a diver.
+The occupation of [person2] is a mechanic.
+[person2] is a banker.
+[person4]'s job is a prince/princess.
+[person4]'s job is a drummer.
+The occupation of [person4] is a student.
+[person3]'s job is a babysitter.
+[person4] is a internist.
+The occupation of [person3] is a banker.
+The occupation of [person4] is a gatherer.
+[person2] is a designer.
+The occupation of [person2] is a doorman.
+The line of work that the [person4] is in is embassy
+The occupation of [person1] is a advisor.
+[person2] works in university.
+[person4]'s job is a builder.
+[person1] is a carpenter.
+[person2] is a programmer.
+[person4] works in abbey.
+[person3] is a detective.
+The occupation of [person3] is a babysitter.
+The occupation of [person2] is a athlete.
+[person3]'s job is a mail carrier.
+[person4]'s job is a surgeon.
+[person4]'s job is a garbage man.
+The occupation of [person3] is a translator.
+[person4]'s job is a hobo.
+[person1]'s job is a cashier.
+[person2] is a typist.
+The occupation of [person4] is a soldier.
+[person2]'s job is a scientist.
+[person2] works for a/an garage.
+[person3] works for a/an amphitheater.
+[person3]'s job is a producer.
+[person3] is a interviewer.
+[person1]'s job is a journalist.
+[person2] is a veterinarian.
+The line of work that the [person4] is in is airport
+The occupation of [person4] is a doorman.
+[person3]'s job is a guide.
+The line of work that the [person2] is in is motel
+The occupation of [person4] is a lifeguard.
+[person1]'s job is a firefighter.
+[person2] is a baseball player.
+The occupation of [person4] is a builder.
+[person1] works in shopping center.
+The occupation of [person4] is a principal.
+[person3] is a magician.
+The line of work that the [person2] is in is farm
+The occupation of [person1] is a star.
+[person3] is a cook.
+[person2]'s job is a singer.
+[person2] is a novelist.
+[person4] works for a/an holiday inn.
+The occupation of [person3] is a doctor.
+The occupation of [person1] is a entrepreneur.
+[person2]'s job is a navigator.
+The occupation of [person1] is a jailer.
+[person4] works for a/an police station.
+[person3] works in hospital.
+[person4] is a carpenter.
+The occupation of [person1] is a swimmer.
+The occupation of [person2] is a professor.
+[person1] works in bar.
+The occupation of [person3] is a scientist.
+The occupation of [person4] is a samurai.
+[person4]'s job is a interpreter.
+[person3] works in embassy.
+[person1]'s job is a veterinarian.
+The occupation of [person4] is a mechanic.
+The occupation of [person3] is a reporter.
+[person1]'s job is a director.
+[person2]'s job is a magician.
+[person4]'s job is a lawyer.
+[person4]'s job is a designer.
+[person1]'s job is a mechanic.
+[person1]'s job is a smith.
+The occupation of [person1] is a jester.
+The occupation of [person4] is a publisher.
+[person4]'s job is a typist.
+[person3]'s job is a marketer.
+[person2] works in art gallery.
+[person1] is a caregiver.
+[person1] is a singer.
+[person3] is a programmer.
+The line of work that the [person2] is in is library
+[person1] works for a/an museum.
+The line of work that the [person1] is in is library
+The occupation of [person4] is a caregiver.
+[person1] is a psychologist.
+[person1] is a explorer.
+[person2] is a musician.
+[person3] is a navigator.
+[person2] works for a/an bar.
+The line of work that the [person3] is in is airport
+[person3]'s job is a astronomer.
+[person3] works for a/an shopping center.
+[person4] is a technician.
+[person2] is a judge.
+The occupation of [person3] is a cook.
+The occupation of [person2] is a sailor.
+[person1] works for a/an monastery.
+[person2]'s job is a translator.
+[person4]'s job is a educator.
+The line of work that the [person3] is in is library
+[person2] is a model.
+[person4] is a detective.
+[person3]'s job is a politician.
+[person3]'s job is a principal.
+[person1] is a technician.
+[person4]'s job is a waiter/waitress.
+[person4] is a swimmer.
+[person4]'s job is a gatherer.
+[person3]'s job is a nun.
+The occupation of [person4] is a cashier.
+[person4] works in monastery.
+[person4]'s job is a model.
+The occupation of [person4] is a basketball player.
+[person2] is a jeweler.
+The line of work that the [person4] is in is capitol
+[person2] is a waiter/waitress.
+[person3] is a electrician.
+The occupation of [person2] is a toolmaker.
+The occupation of [person4] is a researcher.
+[person3] works in library.
+[person2]'s job is a dentist.
+[person2] is a pianist.
+[person4] works for a/an airport.
+The occupation of [person2] is a trainer.
+The occupation of [person2] is a student.
+[person3]'s job is a interpreter.
+[person2]'s job is a editor.
+[person2]'s job is a ballerina.
+The occupation of [person4] is a football player.
+[person3]'s job is a ambassador.
+[person4] works for a/an studio.
+[person2] is a football player.
+The occupation of [person1] is a novelist.
+[person2] works for a/an motel.
+The occupation of [person3] is a toolmaker.
+The occupation of [person1] is a fisherman.
+[person4] works in hostel.
+The occupation of [person1] is a police.
+[person3] is a pilot.
+[person1] works in airport.
+[person1]'s job is a dancer.
+[person2] is a builder.
+The occupation of [person1] is a lecturer.
+[person4]'s job is a worker.
+[person4] is a exporter.
+[person1]'s job is a football player.
+The line of work that the [person3] is in is art gallery
+[person1] is a professor.
+[person3]'s job is a basketball player.
+The occupation of [person2] is a tutor.
+[person1]'s job is a samurai.
+[person2]'s job is a marine.
+[person4] works for a/an hotel.
+[person4] is a judge.
+[person1] works in post office.
+[person1] is a trainer.
+The line of work that the [person2] is in is shopping center
+[person2]'s job is a baseball player.
+[person4]'s job is a cook.
+[person4] is a operator.
+The occupation of [person2] is a samurai.
+[person3] works in bookshop.
+[person1] is a magician.
+The occupation of [person4] is a electrician.
+[person4] works in restaurant.
+[person3] works for a/an supermarket.
+The occupation of [person3] is a carpenter.
+The occupation of [person1] is a judge.
+[person3]'s job is a lawyer.
+[person1]'s job is a baseball player.
+[person3]'s job is a pianist.
+The line of work that the [person3] is in is amphitheater
+The line of work that the [person1] is in is capitol
+[person3] works for a/an laboratory.
+The occupation of [person4] is a hunter.
+The occupation of [person4] is a mayor.
+The occupation of [person3] is a lecturer.
+The occupation of [person3] is a chef.
+The occupation of [person1] is a builder.
+The occupation of [person3] is a lawyer.
+[person4]'s job is a student.
+[person2]'s job is a mathematician.
+[person4]'s job is a chaplain.
+The line of work that the [person1] is in is laundry
+The occupation of [person1] is a nurse.
+[person3]'s job is a advisor.
+[person1] works in holiday inn.
+[person1]'s job is a swimmer.
+[person2]'s job is a teacher.
+The occupation of [person4] is a umpire.
+[person1] works for a/an supermarket.
+[person2]'s job is a clerk.
+[person2] works for a/an market.
+[person3] is a lifeguard.
+The line of work that the [person1] is in is abbey
+[person1] is a electrician.
+[person4] is a performer.
+[person1] is a mechanic.
+[person2] is a doorman.
+The occupation of [person3] is a advisor.
+[person3]'s job is a policeman/policewoman.
+[person1] works in museum.
+The line of work that the [person4] is in is drugstore
+[person4] works in amphitheater.
+[person4]'s job is a advisor.
+[person2] is a composer.
+[person3]'s job is a baseball player.
+[person2] is a artist.
+[person3] is a photographer.
+The occupation of [person3] is a composer.
+[person4]'s job is a producer.
+[person4]'s job is a clerk.
+The line of work that the [person1] is in is gym
+The line of work that the [person3] is in is supermarket
+The line of work that the [person3] is in is laboratory
+[person4] works in gas station.
+[person3]'s job is a caregiver.
+[person4]'s job is a baker.
+The occupation of [person2] is a cashier.
+[person3] is a barber.
+The occupation of [person1] is a student.
+[person1]'s job is a sheriff.
+[person3] works for a/an gym.
+The occupation of [person4] is a typist.
+The occupation of [person2] is a astronomer.
+[person4] is a spy.
+[person3] works for a/an theater.
+[person1] is a marketer.
+The occupation of [person3] is a referee.
+[person2] works for a/an theater.
+[person1] is a waiter/waitress.
+[person1]'s job is a nurse.
+[person1] works for a/an shipside.
+[person2] is a director.
+[person1] is a smith.
+[person2] is a principal.
+[person2]'s job is a governor.
+[person2]'s job is a jailer.
+[person3] is a mathematician.
+[person2]'s job is a exporter.
+[person1] works in laundry.
+[person4] is a jailer.
+The occupation of [person3] is a basketball player.
+[person4] is a coach.
+[person2] is a hobo.
+[person1] is a lawyer.
+[person1] works in aircraft hangar.
+The occupation of [person1] is a doorman.
+The line of work that the [person2] is in is bowling alley
+[person4]'s job is a messenger.
+[person4] works in church.
+[person2]'s job is a cashier.
+The occupation of [person3] is a researcher.
+The occupation of [person4] is a operator.
+[person3]'s job is a typist.
+[person2]'s job is a accountant.
+[person3]'s job is a jester.
+The occupation of [person1] is a navigator.
+[person1] is a hobo.
+[person2]'s job is a captain.
+[person4]'s job is a technician.
+[person4]'s job is a athlete.
+The occupation of [person3] is a receptionist.
+[person4] works for a/an library.
+The line of work that the [person1] is in is art gallery
+[person4] is a captain.
+The occupation of [person2] is a veterinarian.
+The occupation of [person4] is a exporter.
+[person4]'s job is a scholar.
+The line of work that the [person4] is in is market
+The line of work that the [person4] is in is supermarket
+[person3] is a buyer.
+[person3]'s job is a warden.
+[person3]'s job is a trainer.
+[person3] is a explorer.
+[person4]'s job is a farmer.
+[person2]'s job is a dancer.
+The occupation of [person3] is a detective.
+[person2] is a worker.
+[person1]'s job is a researcher.
+[person1] is a samurai.
+[person4] works in hospital.
+[person3] works in motel.
+The occupation of [person3] is a lifeguard.
+The occupation of [person1] is a painter.
+[person4] works for a/an refinery.
+The occupation of [person3] is a author.
+[person3] is a model.
+The line of work that the [person4] is in is aircraft hangar
+[person2] works for a/an supermarket.
+[person3]'s job is a actor/actress.
+The occupation of [person1] is a reporter.
+[person3] is a gatherer.
+[person3] is a principal.
+The occupation of [person4] is a musician.
+The occupation of [person3] is a model.
+[person3] works for a/an airport.
+[person3] works in university.
+[person2]'s job is a mechanic.
+[person4] is a composer.
+[person4] works for a/an gas station.
+[person1] is a chef.
+[person1]'s job is a reporter.
+[person1] works in drugstore.
+The occupation of [person4] is a librarian.
+[person3] works in bowling alley.
+[person1] is a mayor.
+[person3] works for a/an laundry.
+[person4]'s job is a mail carrier.
+The occupation of [person3] is a scholar.
+[person4] works for a/an motel.
+The occupation of [person1] is a captain.
+[person4] works in museum.
+The line of work that the [person3] is in is abbey
+The occupation of [person3] is a marketer.
+[person2]'s job is a tailor.
+The occupation of [person4] is a chef.
+The occupation of [person2] is a photographer.
+The occupation of [person3] is a editor.
+The occupation of [person3] is a tutor.
+[person2]'s job is a swimmer.
+[person3] is a monk.
+The occupation of [person3] is a hobo.
+[person1] is a navigator.
+The occupation of [person2] is a caregiver.
+The line of work that the [person4] is in is garage
+[person4] is a toolmaker.
+The occupation of [person2] is a exporter.
+[person4]'s job is a judge.
+[person1] is a driver.
+[person3] works in monastery.
+[person1] is a director.
+The line of work that the [person1] is in is embassy
+The line of work that the [person3] is in is restaurant
+[person1] is a financier.
+The occupation of [person3] is a gatherer.
+[person1] is a worker.
+[person3]'s job is a lecturer.
+[person3] is a lawyer.
+The occupation of [person4] is a police.
+[person3]'s job is a singer.
+[person2] is a psychologist.
+The line of work that the [person4] is in is post office
+[person4] is a actor/actress.
+[person4] is a undertaker.
+[person1] is a politician.
+The line of work that the [person2] is in is hostel
+The occupation of [person1] is a editor.
+The occupation of [person4] is a educator.
+[person2] works in drugstore.
+The occupation of [person3] is a novelist.
+[person2]'s job is a toolmaker.
+[person4] works for a/an theater.
+[person3] is a bellhop.
+The occupation of [person1] is a clerk.
+[person4] is a foreman.
+The occupation of [person4] is a receptionist.
+[person1] works for a/an foundry.
+[person2] works in laboratory.
+The occupation of [person2] is a financier.
+[person4] works in fire station.
+The line of work that the [person4] is in is cinema
+[person2]'s job is a physician.
+[person3] is a spy.
+[person3] is a samurai.
+[person1] is a dancer.
+[person2]'s job is a tutor.
+[person2]'s job is a bookkeeper.
+The occupation of [person1] is a surgeon.
+The occupation of [person4] is a journalist.
+[person2] works for a/an bookshop.
+The occupation of [person4] is a nun.
+[person4] is a entrepreneur.
+[person3]'s job is a butcher.
+The occupation of [person4] is a swimmer.
+[person4] is a pilot.
+[person3]'s job is a mathematician.
+[person1]'s job is a trainer.
+The occupation of [person3] is a diver.
+[person4] is a cook.
+The occupation of [person4] is a game designer.
+The occupation of [person4] is a advisor.
+[person3] is a ballerina.
+[person4] works for a/an art gallery.
+[person3]'s job is a poet.
+The occupation of [person4] is a designer.
+The occupation of [person3] is a firefighter.
+[person4] is a librarian.
+[person3]'s job is a messenger.
+The line of work that the [person3] is in is monastery
+[person1] works for a/an holiday inn.
+[person1] works for a/an capitol.
+[person1] is a typist.
+[person4] is a gatherer.
+The occupation of [person4] is a referee.
+[person4]'s job is a politician.
+[person1] is a coach.
+[person4]'s job is a chef.
+[person1] works in supermarket.
+[person4] works for a/an bus station.
+[person1]'s job is a author.
+[person1] works for a/an garage.
+[person2]'s job is a professor.
+[person4] is a ballerina.
+[person2] is a electrician.
+The occupation of [person2] is a engineer.
+[person4]'s job is a doorman.
+The occupation of [person3] is a technician.
+[person2]'s job is a sailor.
+[person2] is a referee.
+[person4]'s job is a gardener.
+[person2] works for a/an refinery.
+[person2] works for a/an embassy.
+[person1] works for a/an police station.
+[person2] works in government.
+[person4] works in bus station.
+[person2]'s job is a manager.
+The occupation of [person2] is a farmer.
+[person2] works for a/an library.
+[person2] works for a/an capitol.
+The occupation of [person1] is a jeweler.
+[person4] is a poet.
+The occupation of [person1] is a hunter.
+[person1] works for a/an cinema.
+[person1] is a artist.
+[person3]'s job is a banker.
+[person1]'s job is a mail carrier.
+[person2] is a internist.
+The line of work that the [person3] is in is school
+[person2] is a singer.
+The occupation of [person1] is a marketer.
+[person2] is a toolmaker.
+The occupation of [person3] is a warden.
+The occupation of [person1] is a chaplain.
+The occupation of [person2] is a model.
+[person2] works for a/an observatory.
+The occupation of [person4] is a marketer.
+The occupation of [person3] is a unemployed.
+[person4]'s job is a driver.
+The line of work that the [person1] is in is garage
+[person3] is a composer.
+[person4] is a marine.
+[person1]'s job is a principal.
+[person3] is a exporter.
+[person4] is a gardener.
+[person1] works for a/an market.
+[person1]'s job is a entrepreneur.
+[person2] is a president.
+[person1]'s job is a governor.
+[person2]'s job is a student.
+[person1] works in government.
+[person2] works for a/an post office.
+[person3]'s job is a philosopher.
+[person3]'s job is a operator.
+[person3]'s job is a judge.
+The occupation of [person4] is a producer.
+The line of work that the [person3] is in is bus station
+The line of work that the [person2] is in is supermarket
+The occupation of [person3] is a surgeon.
+[person3]'s job is a publisher.
+[person4] works in market.
+[person4]'s job is a baseball player.
+[person1]'s job is a banker.
+[person1] works for a/an abbey.
+The occupation of [person2] is a buyer.
+[person1]'s job is a detective.
+[person4]'s job is a mechanic.
+The occupation of [person4] is a astronomer.
+The occupation of [person4] is a composer.
+[person3]'s job is a farmer.
+[person3] is a referee.
+The occupation of [person3] is a foreman.
+[person2]'s job is a policeman/policewoman.
+[person3] is a athlete.
+[person1]'s job is a mathematician.
+[person1] works for a/an theater.
+[person3] works for a/an hotel.
+[person1] is a translator.
+[person4] is a police.
+[person1]'s job is a composer.
+[person3] is a marine.
+The line of work that the [person3] is in is market
+The occupation of [person1] is a sailor.
+[person2] works in forge.
+[person2]'s job is a programmer.
+[person1]'s job is a monk.
+The occupation of [person3] is a photographer.
+[person4] is a baseball player.
+[person3] works for a/an hospital.
+[person1]'s job is a toolmaker.
+[person4]'s job is a basketball player.
+[person4]'s job is a monk.
+[person3] works for a/an museum.
+[person2] works for a/an gym.
+[person2] works in museum.
+[person1]'s job is a laborer.
+The occupation of [person2] is a gatherer.
+[person4]'s job is a undertaker.
+[person2] is a policeman/policewoman.
+[person2] works in gas station.
+[person2]'s job is a detective.
+[person1] is a barber.
+The occupation of [person1] is a game designer.
+[person4]'s job is a mayor.
+[person3] is a technician.
+[person2]'s job is a reporter.
+[person2]'s job is a explorer.
+[person2] works for a/an bowling alley.
+[person3] works for a/an bookshop.
+[person2] works for a/an museum.
+[person4]'s job is a doctor.
+The occupation of [person1] is a bellhop.
+[person1] works in hotel.
+[person2] is a prince/princess.
+[person3] is a actuary.
+[person3]'s job is a chaplain.
+[person3]'s job is a monk.
+[person1]'s job is a builder.
+[person2] works in farm.
+The line of work that the [person4] is in is shipside
+The occupation of [person1] is a diver.
+The occupation of [person2] is a researcher.
+[person2]'s job is a garbage man.
+[person1] is a engineer.
+The occupation of [person2] is a president.
+[person4] is a author.
+The occupation of [person3] is a mayor.
+[person4]'s job is a manager.
+[person3] is a typist.
+[person4]'s job is a novelist.
+[person1] is a actor/actress.
+The occupation of [person2] is a typist.
+The occupation of [person4] is a navigator.
+[person4] works in foundry.
+[person1] is a marine.
+[person2] is a bookkeeper.
+[person1] is a poet.
+[person3] is a dentist.
+[person2] is a cook.
+The occupation of [person3] is a star.
+[person2] is a hunter.
+[person2] is a drummer.
+[person4]'s job is a translator.
+[person2]'s job is a baker.
+The occupation of [person2] is a politician.
+[person3]'s job is a bookkeeper.
+[person3] is a nurse.
+[person4] is a babysitter.
+[person3] is a baker.
+[person4] is a buyer.
+[person2]'s job is a plumber.
+[person1] works for a/an restaurant.
+[person2]'s job is a photographer.
+[person2] is a instructor.
+[person1]'s job is a pianist.
+[person1] works for a/an gym.
+[person1]'s job is a singer.
+[person4] is a astronaut.
+[person2]'s job is a lifeguard.
+[person1]'s job is a producer.
+The line of work that the [person1] is in is ranch
+[person2] is a magician.
+[person4] is a engineer.
+[person2] is a philosopher.
+[person2] works in market.
+The line of work that the [person2] is in is refinery
+The occupation of [person4] is a salesperson.
+[person3] works in foundry.
+[person1] is a librarian.
+[person4] works in library.
+[person3] works in bar.
+The line of work that the [person1] is in is police station
+[person2]'s job is a astronomer.
+The line of work that the [person1] is in is gas station
+The occupation of [person1] is a carpenter.
+[person2]'s job is a engineer.
+The occupation of [person2] is a physician.
+[person3]'s job is a worker.
+The line of work that the [person1] is in is restaurant
+[person2] works for a/an monastery.
+[person2]'s job is a director.
+[person4] is a trainer.
+[person1] is a ambassador.
+[person1] is a doctor.
+[person2] is a manager.
+The occupation of [person2] is a carpenter.
+[person3] is a hunter.
+[person4] is a interpreter.
+The line of work that the [person3] is in is bar
+[person4] works for a/an farm.
+[person1]'s job is a driver.
+[person3] works in church.
+[person3]'s job is a soldier.
+The occupation of [person3] is a philosopher.
+The occupation of [person1] is a cook.
+[person4]'s job is a performer.
+[person4] works for a/an bar.
+[person3] is a novelist.
+[person1]'s job is a senator.
+[person2]'s job is a marketer.
+[person2] works for a/an hospital.
+[person1] is a editor.
+[person4]'s job is a magician.
+[person2] works for a/an gas station.
+[person3] is a emperor/empress.
+The line of work that the [person4] is in is bar
+[person4]'s job is a marketer.
+[person2]'s job is a babysitter.
+[person2] works for a/an shopping center.
+[person2]'s job is a salesperson.
+[person1] works in police station.
+The occupation of [person2] is a surgeon.
+[person4] is a builder.
+[person3] is a psychologist.
+[person1]'s job is a painter.
+[person2] is a actor/actress.
+[person2] works for a/an aircraft hangar.
+[person3] is a tailor.
+[person2]'s job is a mayor.
+[person1] is a garbage man.
+[person1] is a veterinarian.
+[person1] works for a/an post office.
+[person1]'s job is a magician.
+[person3]'s job is a governor.
+The occupation of [person4] is a landlord.
+[person3] is a prince/princess.
+[person4] works in drugstore.
+[person4] is a samurai.
+[person2] is a student.
+[person1]'s job is a teacher.
+The occupation of [person4] is a jester.
+[person1]'s job is a undertaker.
+The line of work that the [person4] is in is abbey
+[person3]'s job is a designer.
+[person3] works for a/an government.
+[person4] is a singer.
+[person1]'s job is a landlord.
+[person1] is a butcher.
+The occupation of [person2] is a psychologist.
+[person1]'s job is a diver.
+[person2] is a sailor.
+[person4]'s job is a electrician.
+The occupation of [person2] is a librarian.
+[person1] is a sheriff.
+[person1] is a athlete.
+[person2]'s job is a researcher.
+[person3] is a police.
+The line of work that the [person2] is in is hospital
+[person4]'s job is a umpire.
+[person1] works for a/an farm.
+The occupation of [person1] is a interviewer.
+The line of work that the [person4] is in is motel
+[person4]'s job is a professor.
+The occupation of [person3] is a police.
+[person2] is a firefighter.
+[person2] is a soldier.
+The line of work that the [person4] is in is theater
+[person2] is a photographer.
+The occupation of [person3] is a accountant.
+The occupation of [person3] is a engineer.
+The occupation of [person3] is a buyer.
+[person2] is a carpenter.
+[person4]'s job is a lifeguard.
+[person4]'s job is a guide.
+[person4] is a tutor.
+The occupation of [person4] is a astronaut.
+[person2] is a umpire.
+[person4]'s job is a cashier.
+The line of work that the [person1] is in is amphitheater
+The line of work that the [person1] is in is motel
+[person4] is a designer.
+[person4] works for a/an aircraft hangar.
+[person4] works in school.
+[person1] is a actuary.
+[person4]'s job is a salesperson.
+[person2]'s job is a sheriff.
+The occupation of [person4] is a manager.
+The occupation of [person3] is a messenger.
+[person4] is a receptionist.
+[person2] works in studio.
+The line of work that the [person1] is in is farm
+[person4]'s job is a journalist.
+[person1]'s job is a designer.
+The occupation of [person2] is a interviewer.
+The line of work that the [person4] is in is government
+[person4]'s job is a composer.
+The occupation of [person2] is a singer.
+The occupation of [person1] is a accountant.
+The line of work that the [person2] is in is studio
+[person1] is a musician.
+[person2] is a caregiver.
+The line of work that the [person3] is in is ranch
+The occupation of [person2] is a football player.
+[person4] is a tailor.
+The line of work that the [person2] is in is botanic garden
+The occupation of [person4] is a editor.
+The occupation of [person2] is a scholar.
+[person4]'s job is a tutor.
+[person2] is a messenger.
+[person2]'s job is a model.
+[person1]'s job is a student.
+[person1]'s job is a typist.
+[person1] works in gas station.
+The occupation of [person2] is a philosopher.
+[person2]'s job is a messenger.
+The line of work that the [person1] is in is observatory
+The occupation of [person2] is a pianist.
+[person3]'s job is a barber.
+The occupation of [person2] is a marine.
+The occupation of [person2] is a trader.
+[person3] works in refinery.
+[person2] is a educator.
+[person3] is a mail carrier.
+[person3] is a jeweler.
+[person1] is a trader.
+[person2] works in refinery.
+[person4] is a doorman.
+[person1] works for a/an studio.
+[person1]'s job is a astronaut.
+The occupation of [person4] is a accountant.
+[person4] is a veterinarian.
+[person2] works for a/an ranch.
+The line of work that the [person2] is in is drugstore
+The occupation of [person2] is a musician.
+[person1]'s job is a mayor.
+The occupation of [person1] is a buyer.
+The occupation of [person2] is a nun.
+The occupation of [person3] is a painter.
+[person1] is a student.
+[person3] is a mechanic.
+[person1] works in bowling alley.
+[person3] is a captain.
+The occupation of [person4] is a prince/princess.
+The occupation of [person4] is a detective.
+[person2] is a tutor.
+[person1]'s job is a jester.
+[person4] is a governor.
+[person4] is a prince/princess.
+The occupation of [person1] is a mathematician.
+[person4] is a unemployed.
+The line of work that the [person2] is in is hotel
+[person3] is a jester.
+[person1]'s job is a caregiver.
+The occupation of [person2] is a clerk.
+[person2]'s job is a psychologist.
+The line of work that the [person4] is in is observatory
+[person4] works in theater.
+[person2] is a mayor.
+[person4] works for a/an capitol.
+[person1]'s job is a operator.
+[person4] is a senator.
+[person4]'s job is a writer.
+[person3] is a designer.
+[person4] is a interviewer.
+[person1] is a pianist.
+[person1] works in observatory.
+[person1]'s job is a astronomer.
+[person4] is a waiter/waitress.
+[person3] is a jailer.
+The occupation of [person3] is a instructor.
+The occupation of [person1] is a coach.
+[person3] is a policeman/policewoman.
+[person3] is a landlord.
+The line of work that the [person4] is in is museum
+[person1] is a restaurateur.
+[person1] is a jeweler.
+The occupation of [person2] is a pilot.
+[person4] works in refinery.
+[person1] works for a/an bookshop.
+The line of work that the [person1] is in is bowling alley
+[person3]'s job is a ballerina.
+[person1] works for a/an laundry.
+[person2] works for a/an studio.
+The occupation of [person1] is a senator.
+The occupation of [person3] is a electrician.
+[person2] is a marketer.
+[person3] is a dancer.
+[person2]'s job is a jeweler.
+[person3] is a astronomer.
+[person4]'s job is a president.
+[person4] is a diver.
+[person1]'s job is a unemployed.
+[person4]'s job is a director.
+[person3] is a salesperson.
+[person2] works for a/an laboratory.
+The line of work that the [person2] is in is ranch
+[person1] is a bookkeeper.
+The occupation of [person3] is a dancer.
+[person2] is a explorer.
+The occupation of [person1] is a electrician.
+The occupation of [person3] is a typist.
+[person4] is a hunter.
+[person3]'s job is a artist.
+[person2] works in abbey.
+[person3] works for a/an cinema.
+[person1] works in gym.
+[person1] is a gardener.
+[person2]'s job is a monk.
+[person4] works in supermarket.
+The occupation of [person2] is a principal.
+The occupation of [person4] is a warden.
+[person1] is a model.
+The occupation of [person1] is a monk.
+[person1]'s job is a actor/actress.
+[person4]'s job is a reporter.
+[person4] is a philosopher.
+The occupation of [person4] is a scholar.
+[person3] works for a/an studio.
+[person1] is a referee.
+[person4] works in bowling alley.
+[person2]'s job is a flutist.
+The occupation of [person3] is a financier.
+[person4] is a basketball player.
+[person2] works for a/an fire station.
+[person4]'s job is a lecturer.
+[person2] is a performer.
+[person2] works in post office.
+[person4]'s job is a detective.
+The line of work that the [person2] is in is observatory
+[person2] is a mathematician.
+[person4]'s job is a bookkeeper.
+The line of work that the [person4] is in is hospital
+[person2] is a farmer.
+[person3] is a performer.
+The occupation of [person2] is a restaurateur.
+[person2]'s job is a worker.
+[person2]'s job is a trader.
+[person4] is a instructor.
+The occupation of [person2] is a senator.
+The occupation of [person4] is a dancer.
+The occupation of [person2] is a poet.
+[person4]'s job is a soldier.
+[person4] is a lifeguard.
+[person3] is a sailor.
+The occupation of [person2] is a mayor.
+[person1] is a cashier.
+[person1] is a physician.
+[person2] is a barber.
+The occupation of [person1] is a artist.
+The occupation of [person1] is a exporter.
+[person1] is a entrepreneur.
+The occupation of [person2] is a unemployed.
+[person1] is a detective.
+[person1] is a baker.
+[person1]'s job is a lecturer.
+[person4]'s job is a emperor/empress.
+The occupation of [person1] is a nun.
+The occupation of [person3] is a cashier.
+[person2]'s job is a musician.
+[person3]'s job is a firefighter.
+The occupation of [person3] is a drummer.
+[person2]'s job is a fisherman.
+[person2] is a nurse.
+The line of work that the [person1] is in is university
+[person3] works for a/an hostel.
+[person4] is a producer.
+[person1]'s job is a gardener.
+The line of work that the [person1] is in is studio
+[person1] is a laborer.
+[person3]'s job is a financier.
+[person3] works in supermarket.
+[person3]'s job is a doorman.
+[person1] is a football player.
+[person2]'s job is a operator.
+The occupation of [person4] is a firefighter.
+The occupation of [person1] is a director.
+[person3] works in fire station.
+[person3]'s job is a painter.
+The line of work that the [person4] is in is studio
+[person2] is a exporter.
+[person4]'s job is a engineer.
+The occupation of [person4] is a hobo.
+[person2]'s job is a guide.
+The occupation of [person4] is a drummer.
+[person4] works in motel.
+[person4] is a financier.
+The occupation of [person1] is a guide.
+[person3] works in hotel.
+The occupation of [person2] is a actuary.
+The line of work that the [person1] is in is hostel
+[person1]'s job is a marketer.
+The occupation of [person2] is a swimmer.
+[person4] works in forge.
+[person2] is a librarian.
+The occupation of [person2] is a barber.
+[person2] is a editor.
+The line of work that the [person2] is in is embassy
+[person4] is a jester.
+[person2] is a cashier.
+[person1] is a researcher.
+[person2] is a advisor.
+The line of work that the [person4] is in is police station
+[person3] is a manager.
+[person3] is a politician.
+The occupation of [person4] is a undertaker.
+The line of work that the [person2] is in is laboratory
+The occupation of [person3] is a exporter.
+[person3] works in restaurant.
+[person1] is a umpire.
+[person4]'s job is a banker.
+The occupation of [person4] is a buyer.
+[person1] works for a/an bus station.
+The line of work that the [person2] is in is airport
+[person4] works for a/an bowling alley.
+[person1] is a unemployed.
+The line of work that the [person1] is in is post office
+[person3]'s job is a police.
+The occupation of [person2] is a electrician.
+[person2] works for a/an abbey.
+[person4] is a mayor.
+[person4]'s job is a trader.
+[person4] is a educator.
+[person1]'s job is a explorer.
+The occupation of [person2] is a mail carrier.
+[person4]'s job is a trainer.
+[person2] is a writer.
+The occupation of [person2] is a novelist.
+[person1]'s job is a marine.
+The occupation of [person4] is a author.
+[person3] works for a/an church.
+The occupation of [person2] is a baker.
+[person4]'s job is a samurai.
+[person4]'s job is a buyer.
+The occupation of [person1] is a warden.
+[person3] works in capitol.
+[person4] is a baker.
+The occupation of [person4] is a writer.
+The line of work that the [person4] is in is restaurant
+[person3] works for a/an fire station.
+The occupation of [person1] is a dentist.
+The line of work that the [person4] is in is gas station
+[person3] is a publisher.
+The occupation of [person4] is a worker.
+[person3]'s job is a dentist.
+The line of work that the [person2] is in is police station
+[person1] is a emperor/empress.
+[person1] is a baseball player.
+[person2]'s job is a umpire.
+The occupation of [person4] is a psychologist.
+[person2] works for a/an laundry.
+The line of work that the [person3] is in is foundry
+[person1] is a monk.
+[person1]'s job is a technician.
+The occupation of [person2] is a monk.
+[person1]'s job is a drummer.
+[person4] works for a/an hostel.
+The occupation of [person4] is a actor/actress.
+[person2] is a golfer.
+The line of work that the [person2] is in is church
+The occupation of [person2] is a warden.
+[person4] is a astronomer.
+The occupation of [person1] is a actuary.
+The occupation of [person2] is a landlord.
+[person2] is a painter.
+[person3] works in theater.
+The occupation of [person4] is a farmer.
+[person4]'s job is a astronomer.
+[person1] works in abbey.
+[person3] works in museum.
+The occupation of [person1] is a ballerina.
+[person3] is a instructor.
+[person1]'s job is a interviewer.
+[person4]'s job is a captain.
+[person1] works in motel.
+[person4]'s job is a dancer.
+[person4]'s job is a carpenter.
+[person3] is a student.
+The line of work that the [person1] is in is laboratory
+[person4] is a game designer.
+[person1] works in art gallery.
+[person4] works for a/an supermarket.
+[person3]'s job is a captain.
+The occupation of [person4] is a engineer.
+The line of work that the [person2] is in is government
+[person1]'s job is a umpire.
+The line of work that the [person4] is in is foundry
+The occupation of [person3] is a operator.
+[person1] is a principal.
+[person3] is a undertaker.
+The line of work that the [person4] is in is laundry
+[person1] is a sailor.
+The line of work that the [person1] is in is foundry
+[person3] is a interpreter.
+The occupation of [person3] is a landlord.
+[person4] is a bellhop.
+[person4]'s job is a hunter.
+The occupation of [person4] is a restaurateur.
+[person1] works for a/an shopping center.
+The occupation of [person3] is a soldier.
+[person4]'s job is a editor.
+[person4]'s job is a author.
+[person4] works in observatory.
+[person3] is a game designer.
+The line of work that the [person1] is in is monastery
+The line of work that the [person3] is in is police station
+The occupation of [person1] is a dancer.
+[person3] works for a/an abbey.
+[person2]'s job is a pilot.
+[person2] is a technician.
+The occupation of [person4] is a physician.
+[person1]'s job is a internist.
+[person1] is a star.
+[person1]'s job is a artist.
+The line of work that the [person1] is in is supermarket
+[person2] is a producer.
+[person1]'s job is a star.
+[person4]'s job is a musician.
+The line of work that the [person3] is in is cinema
+[person4] is a writer.
+[person2]'s job is a nun.
+[person1]'s job is a instructor.
+The occupation of [person3] is a designer.
+[person3]'s job is a translator.
+[person3] works for a/an ranch.
+[person3] works in forge.
+[person1] is a undertaker.
+The occupation of [person1] is a poet.
+[person2] is a butcher.
+[person4] is a professor.
+[person3] works for a/an bus station.
+The occupation of [person1] is a chef.
+[person2] is a doctor.
+The occupation of [person2] is a basketball player.
+[person1] is a builder.
+[person3] is a bookkeeper.
+The line of work that the [person2] is in is post office
+[person4] works in botanic garden.
+The occupation of [person4] is a cook.
+[person4] is a politician.
+[person1] is a police.
+[person2] is a guide.
+The occupation of [person2] is a accountant.
+[person3]'s job is a sailor.
+[person4] is a emperor/empress.
+[person4] is a model.
+[person3]'s job is a exporter.
+[person2]'s job is a referee.
+The occupation of [person3] is a gardener.
+[person3]'s job is a athlete.
+The occupation of [person4] is a golfer.
+The occupation of [person3] is a actor/actress.
+The line of work that the [person3] is in is capitol
+The occupation of [person4] is a model.
+[person1]'s job is a basketball player.
+The line of work that the [person1] is in is fire station
+The occupation of [person3] is a student.
+[person2] is a gatherer.
+[person1] is a buyer.
+The occupation of [person3] is a baker.
+[person4] works for a/an amphitheater.
+[person4]'s job is a actuary.
+[person2] is a interpreter.
+[person3] is a trader.
+[person2] is a garbage man.
+[person1]'s job is a hobo.
+The occupation of [person3] is a farmer.
+[person3] works for a/an drugstore.
+[person3] is a author.
+The occupation of [person1] is a mechanic.
+The occupation of [person2] is a technician.
+[person1]'s job is a physician.
+[person1] works in garage.
+[person2] is a physician.
+The occupation of [person2] is a magician.
+The occupation of [person3] is a jailer.
+[person3]'s job is a sheriff.
+[person2]'s job is a hunter.
+[person2] is a coach.
+[person4]'s job is a tailor.
+The occupation of [person1] is a ambassador.
+[person1] is a prince/princess.
+The occupation of [person4] is a pianist.
+[person3]'s job is a spy.
+The occupation of [person2] is a manager.
+The occupation of [person2] is a instructor.
+The occupation of [person2] is a interpreter.
+[person2]'s job is a veterinarian.
+The line of work that the [person3] is in is holiday inn
+[person2] works in capitol.
+[person4] works in capitol.
+[person4] works for a/an abbey.
+The occupation of [person3] is a actuary.
+[person2]'s job is a samurai.
+[person4] works for a/an museum.
+[person2] works for a/an airport.
+The occupation of [person3] is a producer.
+[person2] is a poet.
+[person2]'s job is a performer.
+The occupation of [person4] is a foreman.
+The occupation of [person3] is a fisherman.
+The line of work that the [person2] is in is art gallery
+The line of work that the [person3] is in is refinery
+[person2]'s job is a coach.
+The occupation of [person4] is a flutist.
+[person4] works for a/an cinema.
+[person4] is a journalist.
+[person2]'s job is a foreman.
+The occupation of [person3] is a nun.
+[person4] is a smith.
+[person2]'s job is a warden.
+The occupation of [person3] is a teacher.
+[person1] is a nurse.
+[person1]'s job is a manager.
+[person3] works for a/an holiday inn.
+The occupation of [person2] is a prince/princess.
+The line of work that the [person2] is in is capitol
+[person4] works in hotel.
+[person3]'s job is a technician.
+[person3] works in observatory.
+The occupation of [person4] is a interviewer.
+[person3] is a nun.
+[person1]'s job is a judge.
+[person1] works for a/an library.
+[person1] works for a/an hospital.
+[person1]'s job is a president.
+The occupation of [person3] is a astronomer.
+[person3] is a librarian.
+[person3] works for a/an motel.
+[person3]'s job is a mayor.
+The occupation of [person1] is a journalist.
+[person3]'s job is a diver.
+[person1]'s job is a doctor.
+[person3] is a scientist.
+[person1] is a firefighter.
+The occupation of [person1] is a psychologist.
+The occupation of [person1] is a educator.
+[person2]'s job is a publisher.
+[person3] is a chaplain.
+[person2]'s job is a lecturer.
+[person2] is a financier.
+[person4]'s job is a golfer.
+[person3]'s job is a student.
+[person2]'s job is a financier.
+[person1] works for a/an university.
+[person4] works in studio.
+[person4] works for a/an restaurant.
+The occupation of [person3] is a senator.
+[person3] works in amphitheater.
+The line of work that the [person4] is in is bowling alley
+The line of work that the [person4] is in is hotel
+The occupation of [person1] is a farmer.
+The occupation of [person2] is a lifeguard.
+The occupation of [person2] is a lawyer.
+The occupation of [person4] is a instructor.
+[person2] is a sheriff.
+[person2] works for a/an forge.
+[person4]'s job is a astronaut.
+[person4] works in shipside.
+[person4] works in airport.
+[person4] is a jeweler.
+The occupation of [person1] is a worker.
+[person2]'s job is a spy.
+[person1] is a spy.
+[person1] works in school.
+The line of work that the [person2] is in is school
+[person1] works for a/an laboratory.
+The occupation of [person1] is a flutist.
+[person3] works in botanic garden.
+[person1] is a astronaut.
+The occupation of [person3] is a football player.
+[person3]'s job is a veterinarian.
+[person2] is a spy.
+The occupation of [person2] is a composer.
+[person4]'s job is a ballerina.
+The occupation of [person1] is a emperor/empress.
+[person3] works in studio.
+[person4]'s job is a marine.
+The occupation of [person3] is a bookkeeper.
+The occupation of [person3] is a smith.
+The occupation of [person3] is a interpreter.
+The occupation of [person1] is a principal.
+[person4] works in government.
+[person4]'s job is a swimmer.
+The occupation of [person3] is a pilot.
+[person3]'s job is a flutist.
+The occupation of [person3] is a prince/princess.
+[person2]'s job is a journalist.
+[person3] works in shipside.
+[person1] is a jailer.
+[person3] works for a/an capitol.
+The occupation of [person4] is a smith.
+[person2] is a diver.
+[person1]'s job is a coach.
+[person2] is a unemployed.
+The occupation of [person3] is a professor.
+[person2]'s job is a internist.
+[person1] works for a/an hotel.
+[person1] is a producer.
+The line of work that the [person1] is in is bookshop
+[person2] works in police station.
+[person3]'s job is a scholar.
+The occupation of [person3] is a chaplain.
+The line of work that the [person4] is in is school
+[person3]'s job is a president.
+[person1]'s job is a educator.
+The occupation of [person4] is a plumber.
+[person4] is a typist.
+[person2]'s job is a basketball player.
+[person3] is a driver.
+[person4] works for a/an fire station.
+The occupation of [person3] is a sailor.
+[person4]'s job is a barber.
+[person3] is a restaurateur.
+The occupation of [person2] is a marketer.
+The occupation of [person1] is a astronaut.
+[person4] is a umpire.
+[person1]'s job is a financier.
+[person1]'s job is a tutor.
+[person3]'s job is a entrepreneur.
+The line of work that the [person1] is in is hotel
+[person3] is a pianist.
+[person4] is a star.
+[person4]'s job is a principal.
+[person4]'s job is a babysitter.
+The occupation of [person2] is a emperor/empress.
+[person3] is a senator.
+[person3] is a astronaut.
+The occupation of [person1] is a astronomer.
+[person1] is a operator.
+[person3]'s job is a senator.
+The occupation of [person1] is a interpreter.
+[person2] works in shipside.
+[person1] is a game designer.
+The occupation of [person3] is a waiter/waitress.
+[person3] works for a/an restaurant.
+[person4]'s job is a jester.
+The line of work that the [person3] is in is bookshop
+[person1]'s job is a captain.
+[person1]'s job is a carpenter.
+[person4] is a publisher.
+[person3] is a basketball player.
+[person2] is a engineer.
+[person3]'s job is a laborer.
+[person2] works in motel.
+[person3]'s job is a star.
+[person4] works for a/an market.
+The occupation of [person4] is a bookkeeper.
+[person1]'s job is a flutist.
+[person3] is a researcher.
+[person3] is a babysitter.

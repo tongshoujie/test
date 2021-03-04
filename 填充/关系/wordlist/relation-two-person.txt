@@ -1,0 +1,12 @@
+brothers
+sisters
+siblings
+companions
+friends
+enemies
+competitors
+schoolmates
+classmates
+roommates
+teammates
+partners

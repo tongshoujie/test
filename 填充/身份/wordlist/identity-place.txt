@@ -1,0 +1,47 @@
+hospital
+school
+gym
+shopping center
+hotel
+restaurant
+church
+bookshop
+airport
+bus station
+motel
+holiday inn
+laundry
+drugstore
+post office
+police station
+fire station
+university
+botanic garden
+theater
+cinema
+art gallery
+bar
+government
+shipside
+abbey
+aircraft hangar
+amphitheater
+bowling alley
+capitol
+embassy
+farm
+forge
+foundry
+garage
+gas station
+hostel
+laboratory
+library
+market
+monastery
+museum
+observatory
+ranch
+refinery
+studio
+supermarket

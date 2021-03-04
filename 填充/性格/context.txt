@@ -1,0 +1,9 @@
+[person1] is [adj].
+[person1] has a [adj] temper.
+Both [person1] and [person2] are [adj].
+[person1]'s personality is very [adj].
+[person1] is thought to be a/an [adj] man.
+[person1] gives people a [adj] feeling.
+They all know that [person1] is a/an [adj] person.
+[person1] is considerd to be a/an [adj] person.
+[person1] is quite [adj] about most things.

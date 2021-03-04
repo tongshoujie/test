@@ -1,0 +1,483 @@
+[person2] just got a new teammate.
+[person1] had no idea who [person3] was supposed to be.
+There was a/an gale.
+[person3] just got a new mentor.
+domestic accident happened.
+[person4] just lost sister.
+[person1] just lost aunt.
+[person3] just lost companion.
+[person2] just got a new spouse.
+tornado happened.
+[person3] just got a new assistant.
+sandstorm happened.
+[person2] just got a new fellow-apprentice.
+[person2] just got a new uncle.
+[person2] just lost grandfather.
+[person3] just lost son.
+cyclone happened.
+[person1] just got a new grandchild.
+There was a/an water transport accident.
+[person3] just lost sibling.
+[person4] just lost partner.
+[person1] just got a new confidante.
+[person1] just got a new chum.
+[person4] just got a new competitor.
+[person3] just got a new enemy.
+[person4] and [person2] had a fight.
+[person1] just got a new assistant.
+[person2] just got a new assistant.
+[person1] and [person2] had a fight.
+[person3] just got a new partner.
+[person4] just got a new uncle.
+[person4] just lost parent.
+[person3] broke things on accident.
+There was a/an air transport accident.
+[person3] just got a new comrade-in-arms.
+[person3] just lost uncle.
+[person4] just got a new boss.
+[person1] just lost mentor.
+[person4] just lost roommate.
+air transport accident happened.
+[person1] just got a new sister.
+[person2] just lost student.
+[person1] just got a new partner.
+[person3] just lost husband.
+[person4] just got a new student.
+[person1] just lost student.
+There was a/an hail.
+water transport accident happened.
+[person4] just lost boyfriend.
+[person3] just lost cousin.
+There was a/an volcanic eruption.
+[person4] just lost grandparent.
+[person2] just lost competitor.
+industrial accident happened.
+[person3] just got a new rival.
+[person2] just got a new classmate.
+[person3] just lost niece.
+[person4] just got a new enemy.
+[person2] just got a new enemy.
+[person4] just got a new grandmother.
+[person4] just got a new partner.
+[person3] just got a new student.
+[person2] just lost enemy.
+[person3] just got a new mother.
+[person1] just lost schoolmate.
+[person2] just lost buddy.
+[person1] just got a new aunt.
+[person1] just lost enemy.
+[person4] just lost brother.
+[person2] just lost comrade-in-arms.
+[person4] broke things on accident.
+[person4] just lost father.
+There was a/an road traffic accident.
+[person3] just lost comrade-in-arms.
+There was a/an dust storm.
+[person3] just lost enemy.
+[person2] just lost colleague.
+[person3] and [person2] had a fight.
+[person3] just lost grandson.
+[person1] just got a new teammate.
+[person1] just lost buddy.
+[person1] just lost intimate.
+[person4] just lost cousin.
+[person4] just got a new companion.
+[person3] just lost sworn enemy.
+[person2] just lost husband.
+[person2] just lost teammate.
+hail happened.
+medical negligence accidents happened.
+[person2] just got a new partner.
+hurricane happened.
+[person2] just lost grandson.
+[person2] just lost father.
+[person2] just lost grandchild.
+[person4] just got a new chum.
+hailstorm happened.
+[person3] just got a new grandchild.
+[person3] just got a new grandparent.
+[person4] just got a new granddaughter.
+[person3] just lost rival.
+[person4] just got a new sibling.
+[person1] just lost daughter.
+[person4] just lost sworn enemy.
+[person1] just got a new girlfriend.
+[person1] just got a new student.
+[person2] just lost schoolmate.
+There was a/an rainstorm.
+[person1] just got a new daughter.
+[person1] just got a new granddaughter.
+[person1] just got a new colleague.
+[person1] and [person4] were very familiar with each other.
+[person3] just lost fellow-apprentice.
+[person1] just got a new grandfather.
+tsunami happened.
+[person2] just lost penpal.
+[person2] just got a new schoolmate.
+earthquake happened.
+[person1] just lost grandson.
+[person3] just got a new grandmother.
+[person1] just got a new sworn enemy.
+casualty happened.
+[person4] just got a new schoolmate.
+There was a/an cataclysm.
+[person4] just lost uncle.
+[person1] just lost spouse.
+drought happened.
+There was a/an avalanche.
+[person2] just lost sworn enemy.
+[person2] just got a new parent.
+[person1] just got a new competitor.
+[person1] just lost roommate.
+There was a/an flood.
+[person3] just lost girlfriend.
+avalanche happened.
+[person2] just got a new cousin.
+[person1] just got a new brother.
+[person4] just got a new husband.
+[person4] just got a new teammate.
+[person2] just lost roommate.
+[person1] just got a new uncle.
+[person3] just lost grandmother.
+[person1] just got a new mentor.
+[person4] just got a new roommate.
+[person3] just lost mentor.
+There was a/an domestic accident.
+[person2] just got a new mother.
+[person2] just lost uncle.
+[person1] just got a new grandmother.
+There was a/an blizzard.
+[person2] just got a new niece.
+rainstorm happened.
+[person2] just got a new father.
+There was a/an tsunami.
+[person4] just got a new grandson.
+[person2] just got a new roommate.
+[person3] just lost wife.
+[person2] just got a new sister.
+[person3] just got a new teammate.
+[person1] just got a new penpal.
+[person1] just lost classmate.
+There was a/an fire.
+[person4] just got a new aunt.
+[person3] just got a new boss.
+[person4] just got a new comrade-in-arms.
+[person1] just lost confidante.
+[person4] just lost grandfather.
+[person3] just got a new fellow-apprentice.
+thunderstorm happened.
+[person2] just lost teacher.
+[person4] just lost companion.
+[person2] just got a new buddy.
+There was a/an hailstorm.
+[person3] just lost assistant.
+Something unfortunate had just happened.
+[person4] just lost fellow-apprentice.
+[person3] just got a new nephew.
+There was a/an car accident.
+[person2] just got a new sibling.
+flood happened.
+[person3] just got a new parent.
+[person1] just lost mother.
+[person1] just lost grandmother.
+There was a/an earthquake.
+[person2] just lost partner.
+[person3] had no idea who [person2] was supposed to be.
+[person1] just got a new classmate.
+[person3] just got a new father.
+[person4] just got a new daughter.
+[person1] just lost teacher.
+[person2] just got a new nephew.
+[person3] just got a new aunt.
+[person2] just got a new boss.
+[person3] just lost buddy.
+[person4] just lost son.
+snowstorm happened.
+[person3] just lost aunt.
+[person3] just lost chum.
+[person2] just lost sibling.
+[person3] just got a new grandfather.
+[person3] just got a new son.
+[person4] just got a new classmate.
+[person3] just got a new uncle.
+There was a/an windstorm.
+[person2] just got a new brother.
+[person4] just lost niece.
+[person1] just lost colleague.
+[person2] just got a new granddaughter.
+[person2] just lost son.
+[person1] just got a new nephew.
+[person1] just lost sibling.
+There was a/an hurricane.
+[person3] just got a new sworn enemy.
+[person3] just lost spouse.
+[person4] just got a new grandfather.
+There was a/an casualty.
+[person2] just lost sister.
+[person2] just lost mother.
+[person1] just got a new teacher.
+[person1] and [person4] had a fight.
+[person4] just got a new boyfriend.
+[person3] just got a new husband.
+[person1] just lost rival.
+[person3] just lost boyfriend.
+[person4] just lost mother.
+[person3] just got a new granddaughter.
+[person4] just lost comrade-in-arms.
+[person3] just lost daughter.
+[person2] just got a new friend.
+[person2] just lost grandparent.
+non-occupational accident happened.
+[person3] just lost teammate.
+[person4] just lost grandchild.
+[person2] just got a new competitor.
+car accident happened.
+[person3] just got a new sibling.
+There was a/an storm.
+[person3] just lost competitor.
+[person1] just got a new mother.
+[person2] just got a new colleague.
+[person2] just got a new girlfriend.
+[person3] just got a new niece.
+[person1] just got a new father.
+[person4] just lost intimate.
+[person1] just got a new companion.
+There was a/an industrial accident.
+[person4] just lost wife.
+[person1] just lost brother.
+[person2] just lost spouse.
+[person4] just lost assistant.
+[person1] just lost teammate.
+There was a/an tornado.
+[person4] just got a new wife.
+[person2] just lost cousin.
+[person1] just lost granddaughter.
+[person1] just lost father.
+[person1] just lost sworn enemy.
+[person1] just lost partner.
+[person2] just got a new intimate.
+[person1] just got a new spouse.
+[person3] just got a new competitor.
+volcanic eruption happened.
+twister happened.
+There was a/an fall.
+[person1] just lost son.
+[person2] just lost companion.
+[person1] just lost comrade-in-arms.
+[person3] just lost grandparent.
+[person1] just lost nephew.
+[person2] just got a new grandmother.
+[person3] just lost student.
+[person3] just got a new brother.
+[person3] just got a new friend.
+[person4] just lost competitor.
+[person3] just got a new teacher.
+[person3] just got a new colleague.
+[person1] just lost parent.
+fall happened.
+[person4] just lost rival.
+[person4] just got a new intimate.
+[person3] just lost friend.
+[person3] just got a new boyfriend.
+[person1] just lost grandfather.
+gale happened.
+[person4] just got a new cousin.
+[person3] just lost roommate.
+[person4] just lost chum.
+[person3] just lost colleague.
+[person2] just got a new grandson.
+[person4] just lost spouse.
+[person2] just lost confidante.
+[person4] just got a new mentor.
+[person3] just lost sister.
+[person1] just lost cousin.
+[person1] just got a new son.
+[person1] just lost girlfriend.
+[person4] just got a new colleague.
+[person2] just got a new son.
+[person2] just lost assistant.
+drowning incident happened.
+[person1] just got a new niece.
+[person2] just lost daughter.
+[person3] just lost nephew.
+[person3] just lost parent.
+[person4] just lost grandson.
+[person2] just lost boss.
+[person1] just got a new boyfriend.
+[person3] just lost father.
+[person3] just got a new schoolmate.
+[person4] just got a new sister.
+[person3] just lost partner.
+[person3] just lost teacher.
+[person4] just lost colleague.
+[person4] just got a new brother.
+There was a/an sandstorm.
+[person2] just got a new grandparent.
+[person3] just lost schoolmate.
+[person1] had no idea who [person2] was supposed to be.
+[person1] and [person2] were very familiar with each other.
+[person1] just lost sister.
+[person3] just lost penpal.
+[person4] just lost schoolmate.
+There was a/an thunderstorm.
+[person2] just got a new chum.
+[person1] just lost fellow-apprentice.
+[person4] just lost penpal.
+[person1] just got a new fellow-apprentice.
+[person3] just lost brother.
+There was a/an drowning incident.
+[person2] just lost girlfriend.
+[person3] just got a new girlfriend.
+[person4] just got a new nephew.
+[person2] just got a new teacher.
+[person4] just got a new parent.
+[person4] just got a new spouse.
+[person1] just lost boyfriend.
+[person3] just got a new sister.
+[person3] just got a new classmate.
+road traffic accident happened.
+[person4] just lost sibling.
+[person4] just lost aunt.
+[person1] just got a new enemy.
+[person4] just lost enemy.
+[person2] just lost aunt.
+[person4] just lost buddy.
+[person4] just got a new grandparent.
+There was a/an medical negligence accidents.
+[person1] just lost boss.
+[person4] just lost friend.
+[person2] just lost grandmother.
+[person1] just got a new roommate.
+[person3] just got a new buddy.
+[person2] just lost nephew.
+[person1] just got a new intimate.
+[person1] just got a new comrade-in-arms.
+[person4] just lost student.
+[person1] just lost grandparent.
+[person2] just lost friend.
+[person3] just got a new daughter.
+[person4] just got a new rival.
+[person1] just lost penpal.
+disaster happened.
+[person4] just lost husband.
+[person4] just got a new friend.
+There was a/an forest fire.
+[person1] just lost niece.
+[person4] just got a new fellow-apprentice.
+[person1] just got a new husband.
+cataclysm happened.
+violent storm happened.
+[person1] just lost uncle.
+[person3] just got a new companion.
+[person1] broke things on accident.
+[person1] and [person3] had a fight.
+[person3] just got a new intimate.
+[person4] just got a new confidante.
+[person2] broke things on accident.
+motorcycle accidents happened.
+[person3] just got a new penpal.
+windstorm happened.
+[person1] just got a new rival.
+fire happened.
+[person4] just got a new sworn enemy.
+[person1] and [person3] were very familiar with each other.
+[person4] just lost classmate.
+[person4] just lost nephew.
+[person2] just got a new student.
+[person1] just lost chum.
+[person4] just lost daughter.
+[person2] just lost intimate.
+[person3] just lost boss.
+[person4] just got a new son.
+[person1] just lost friend.
+[person3] just lost grandchild.
+[person3] and [person2] were very familiar with each other.
+[person2] just got a new mentor.
+[person4] just got a new niece.
+[person3] just got a new chum.
+[person4] and [person2] were very familiar with each other.
+[person2] just got a new boyfriend.
+[person2] just lost granddaughter.
+[person2] just lost rival.
+[person4] just lost boss.
+[person3] just got a new cousin.
+[person1] just got a new grandson.
+There was a/an occupational accident.
+[person1] just got a new friend.
+[person3] just lost confidante.
+[person1] just lost assistant.
+[person2] just got a new companion.
+[person4] just got a new buddy.
+[person2] just got a new aunt.
+[person2] just got a new grandfather.
+[person3] just lost intimate.
+[person4] just lost confidante.
+[person4] just got a new assistant.
+[person2] just lost chum.
+[person4] just got a new penpal.
+[person2] just lost mentor.
+[person3] just got a new roommate.
+There was a/an snowstorm.
+[person3] just got a new confidante.
+[person2] just got a new daughter.
+[person4] had no idea who [person2] was supposed to be.
+[person1] just got a new grandparent.
+[person2] just got a new rival.
+[person1] just got a new parent.
+[person2] just lost niece.
+[person1] just got a new boss.
+[person1] just got a new buddy.
+There was a/an disaster.
+[person2] just lost parent.
+[person2] just got a new husband.
+[person2] just lost classmate.
+Something fortunate had just happened.
+[person1] just lost wife.
+[person4] just lost girlfriend.
+[person1] just lost husband.
+[person2] just got a new comrade-in-arms.
+There was a/an drought.
+[person4] just lost granddaughter.
+[person3] just lost granddaughter.
+dust storm happened.
+[person4] just lost mentor.
+occupational accident happened.
+[person1] just got a new wife.
+[person1] just got a new cousin.
+[person4] just got a new teacher.
+[person1] just lost grandchild.
+[person3] just lost mother.
+There was a/an twister.
+[person3] just got a new wife.
+[person1] just got a new schoolmate.
+forest fire happened.
+[person4] just lost teammate.
+There was a/an motorcycle accidents.
+[person2] just got a new wife.
+[person3] just got a new spouse.
+[person1] just lost companion.
+[person2] just lost brother.
+There was a/an cyclone.
+blizzard happened.
+[person2] just lost boyfriend.
+[person1] just lost competitor.
+[person4] just got a new father.
+There was a/an violent storm.
+[person4] just lost grandmother.
+[person2] just got a new confidante.
+[person1] just got a new sibling.
+There was a/an non-occupational accident.
+[person3] just got a new grandson.
+[person4] just got a new mother.
+storm happened.
+[person1] had no idea who [person4] was supposed to be.
+[person2] just got a new grandchild.
+[person3] just lost grandfather.
+[person4] just got a new girlfriend.
+[person2] just got a new penpal.
+[person2] just got a new sworn enemy.
+[person2] just lost fellow-apprentice.
+[person3] just lost classmate.
+[person4] just got a new grandchild.
+[person4] just lost teacher.
+[person2] just lost wife.

@@ -1,0 +1,24 @@
+The occupation of [person1] is a [job1].
+[person2]'s job is a [job1].
+[person2] works for a/an [place1].
+The line of work that the [person4] is in is [place1]
+[person1] works in [place1].
+[person2] works in [place1].
+[person1] is a [job1].
+The occupation of [person3] is a [job1].
+[person3] is a [job1].
+[person4] is a [job1].
+[person1] works for a/an [place1].
+The occupation of [person4] is a [job1].
+The occupation of [person2] is a [job1].
+The line of work that the [person1] is in is [place1]
+[person4] works in [place1].
+[person3]'s job is a [job1].
+[person3] works in [place1].
+[person2] is a [job1].
+[person3] works for a/an [place1].
+[person4]'s job is a [job1].
+[person1]'s job is a [job1].
+The line of work that the [person2] is in is [place1]
+[person4] works for a/an [place1].
+The line of work that the [person3] is in is [place1]

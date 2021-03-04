@@ -1,0 +1,31 @@
+[person1] had no idea who [person4] was supposed to be.
+[person1] and [person4] were very familiar with each other.
+[person3] and [person2] were very familiar with each other.
+There was a/an [incident1].
+[person4] and [person2] had a fight.
+Something unfortunate had just happened.
+[person1] and [person3] were very familiar with each other.
+[person3] just got a new [relative1].
+[person1] had no idea who [person3] was supposed to be.
+[person4] and [person2] were very familiar with each other.
+[person4] just lost [relative1].
+[incident1] happened.
+[person1] and [person2] had a fight.
+[person3] broke things on accident.
+[person1] broke things on accident.
+[person1] and [person2] were very familiar with each other.
+[person4] had no idea who [person2] was supposed to be.
+[person4] broke things on accident.
+[person1] just lost [relative1].
+[person1] had no idea who [person2] was supposed to be.
+Something fortunate had just happened.
+[person4] just got a new [relative1].
+[person3] had no idea who [person2] was supposed to be.
+[person3] just lost [relative1].
+[person2] just got a new [relative1].
+[person1] and [person4] had a fight.
+[person3] and [person2] had a fight.
+[person2] just lost [relative1].
+[person1] just got a new [relative1].
+[person1] and [person3] had a fight.
+[person2] broke things on accident.

@@ -1,0 +1,15 @@
+sunny
+cloudy
+overcast
+showery
+rainy
+storm
+foggy
+sleet
+hail
+snowy
+windy
+dewy
+ice
+tornado
+drought

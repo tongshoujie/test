@@ -1,0 +1,5 @@
+The atmosphere is [emotion1].
+It is [weather1].
+This is telling a [emotion1] story.
+There is a/an [emotion1] in the air.
+The scene is [emotion1].

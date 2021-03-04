@@ -1,0 +1,39 @@
+avalanche
+blizzard
+cyclone
+drought
+dust storm
+earthquake
+fire
+flood
+forest fire
+gale
+hail
+hailstorm
+hurricane
+rainstorm
+sandstorm
+snowstorm
+storm
+thunderstorm
+tornado
+tsunami
+twister
+violent storm
+windstorm
+casualty
+disaster
+cataclysm
+volcanic eruption
+car accident
+motorcycle accidents
+drowning incident
+fall
+domestic accident
+industrial accident
+road traffic accident
+air transport accident
+water transport accident
+occupational accident
+non-occupational accident
+medical negligence accidents

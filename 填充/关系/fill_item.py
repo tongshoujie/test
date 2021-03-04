@@ -1,0 +1,87 @@
+import re
+#regex = re.compile('\[person1\]|\[person2\]|\[person3\]|\[person4\]|\[person5\]')
+
+context=[]
+#read the context file
+with open("switched_context.txt","r") as con:
+    for line in con.readlines():
+        line = line.strip('\n')
+        context.append(line)
+'''
+#build keywords array
+keywords=['[person1]','[person2]','[person3]','[person4]','[person5]',
+          '[job1]',
+          '[place1]',
+          '[number1]',
+          '[country1]',
+          '[emotion1]',
+          '[ball1]',
+          '[building1]',
+          '[weather1]',
+          '[job1]',
+          '[incident1]',
+          '[furniture1]',
+          '[time1]']
+'''
+
+res=[]
+################################################################
+# relation-adj
+relation_adj=[]
+with open("wordlist/relation-adj.txt","r") as f:
+    for line in f.readlines():
+        line = line.strip('\n')
+        relation_adj.append(line)
+
+#handle relation-adj
+for con in context:
+    for key in relation_adj:
+        if '[adj]' in con:
+            newCon = con.replace('[adj]',key)
+            #print(newCon)
+            res.append(newCon)
+
+################################################################
+# relation-one-to-another
+relation_n = []
+with open("wordlist/relation-one-to-another.txt", "r") as f:
+    for line in f.readlines():
+        line = line.strip('\n')
+        relation_n.append(line)
+
+# handle relation-one-to-another
+for con in context:
+    for key in relation_n:
+        if '[n]' in con:
+            newCon = con.replace('[n]', key)
+            # print(newCon)
+            res.append(newCon)
+
+################################################################
+# relation-two-person
+relation_N = []
+with open("wordlist/relation-two-person.txt", "r") as f:
+    for line in f.readlines():
+        line = line.strip('\n')
+        relation_N.append(line)
+
+# handle relation-two-person
+for con in context:
+    for key in relation_N:
+        if '[N]' in con:
+            newCon = con.replace('[N]', key)
+            # print(newCon)
+            res.append(newCon)
+
+# merge
+set_res = set(res)
+for con in context:
+    if '[N]' not in con and '[n]' not in con and '[adj]' not in con:
+        set_res.add(con)
+res = list(set_res)
+
+##############################################################3
+#write data into the file
+with open("data.txt","w") as f:
+    for item in res:
+        f.write(item+"\n")
